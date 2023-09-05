@@ -273,6 +273,7 @@
                 "uuid": "AA1u8BojEeuxOWdvFQ5NpA",
                 "menu": null,
                 "title": "Salads",
+                "description": "Comes with choice of 1 dressing and pita bread. Dressing choice: homemade house dressing or Italian dressing, blue cheese, Caeser, lite Italian, balsamic vinaigrette, ranch, oil and vinegar or honey mustard. ",
                 "items": [
                     {
                         "uuid": "Ttv-cBojEeuxOWdvFQ5NpA",
@@ -420,13 +421,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "Comes with choice of 1 dressing and pita bread. Dressing choice: homemade house dressing or Italian dressing, blue cheese, Caeser, lite Italian, balsamic vinaigrette, ranch, oil and vinegar or honey mustard. "
+                ]
             },
             {
                 "uuid": "c6xxQBp8Eeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Pasta",
+                "description": "All pasta served with garlic bread and choice of ziti or linguini. Our Alfredo sauce is homemade.",
                 "items": [
                     {
                         "uuid": "jEdsUBp8Eeusd3m5-QkEtQ",
@@ -592,13 +593,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": "All pasta served with garlic bread and choice of ziti or linguini. Our Alfredo sauce is homemade."
+                ]
             },
             {
                 "uuid": "Ya6zYBp_Eeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Cheese Pizza",
+                "description": "Add toppings for an additional charge.",
                 "items": [
                     {
                         "uuid": "1y358BqBEeusd3m5-QkEtQ",
@@ -648,13 +649,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "Add toppings for an additional charge."
+                ]
             },
             {
                 "uuid": "DThGYBqAEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Speciality Pizza",
+                "description": "",
                 "items": [
                     {
                         "uuid": "1c50gBqCEeusd3m5-QkEtQ",
@@ -872,13 +873,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "F1_DIBqAEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Calzones",
+                "description": "",
                 "items": [
                     {
                         "uuid": "Wou0gBq1Eeusd3m5-QkEtQ",
@@ -1067,13 +1068,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "J0HsoBqAEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Sandwiches",
+                "description": "Served with your choice of french fries, chips or onions rings for additional charge. All items are served with a 8 oz. pattie.",
                 "items": [
                     {
                         "uuid": "hwmxwBq-Eeusd3m5-QkEtQ",
@@ -1273,13 +1274,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "Served with your choice of french fries, chips or onions rings for additional charge. All items are served with a 8 oz. pattie."
+                ]
             },
             {
                 "uuid": "NHGq4BqBEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": " Cold Subs",
+                "description": "All subs served with choice of lettuce, tomatoes, onions, mushrooms, green peppers, hots and pickles. Choice of mayo, mustard, ketchup, BBQ sauce and honey mustard. All subs available as wraps. ",
                 "items": [
                     {
                         "uuid": "dwwpUBrEEeusd3m5-QkEtQ",
@@ -1501,13 +1502,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "All subs served with choice of lettuce, tomatoes, onions, mushrooms, green peppers, hots and pickles. Choice of mayo, mustard, ketchup, BBQ sauce and honey mustard. All subs available as wraps. "
+                ]
             },
             {
                 "uuid": "X4o60BqBEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Hot Subs",
+                "description": "All subs served with choice of lettuce, tomatoes, onions, mushrooms, green peppers, hots and pickles. Choice of mayo, mustard, ketchup, BBQ sauce and honey mustard. All subs available as wraps.",
                 "items": [
                     {
                         "uuid": "pd7wMBrGEeusd3m5-QkEtQ",
@@ -2011,13 +2012,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "All subs served with choice of lettuce, tomatoes, onions, mushrooms, green peppers, hots and pickles. Choice of mayo, mustard, ketchup, BBQ sauce and honey mustard. All subs available as wraps."
+                ]
             },
             {
                 "uuid": "kWmQUBqBEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Speciality Wraps",
+                "description": "Choice of white or wheat wrap, if you want to make it deluxe for an additional charge.",
                 "items": [
                     {
                         "uuid": "A1tyIBrLEeusd3m5-QkEtQ",
@@ -2395,13 +2396,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "Choice of white or wheat wrap, if you want to make it deluxe for an additional charge."
+                ]
             },
             {
                 "uuid": "IBWLABrOEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "Club Sandwiches",
+                "description": "Triple decker club sandwich served on toast with bacon, lettuce, tomato, mayo. Served with choice of french fries or onion rings. ",
                 "items": [
                     {
                         "uuid": "NnOOYBrOEeusd3m5-QkEtQ",
@@ -2515,13 +2516,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "Triple decker club sandwich served on toast with bacon, lettuce, tomato, mayo. Served with choice of french fries or onion rings. "
+                ]
             },
             {
                 "uuid": "-S88sKw4EeqpIQn6jUdQrw",
                 "menu": null,
                 "title": "Dinner Main Entrees",
+                "description": "All main entrees are with served with choice of 2 sides plus a piece of corn bread.",
                 "items": [
                     {
                         "uuid": "pYhfQKw6Eeqa4UEIkr7X3A",
@@ -2922,13 +2923,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "All main entrees are with served with choice of 2 sides plus a piece of corn bread."
+                ]
             },
             {
                 "uuid": "6K9MkKw4Eeq1QUH4pnVguA",
                 "menu": null,
                 "title": "Seafood Dinner",
+                "description": "All seafood dinners come with coleslaw, french fries and tartar sauce. Or substitute: spicy fries, curly fries, sweet potato fries, onion rings, rice pilaf, corn, collard greens, yams, salad, mashed potatoes or potato salad.",
                 "items": [
                     {
                         "uuid": "e_JbMKw7Eeqc98vGyR0RVQ",
@@ -3141,13 +3142,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "All seafood dinners come with coleslaw, french fries and tartar sauce. Or substitute: spicy fries, curly fries, sweet potato fries, onion rings, rice pilaf, corn, collard greens, yams, salad, mashed potatoes or potato salad."
+                ]
             },
             {
                 "uuid": "-HVZAKwsEeqLUIW4JyGhCw",
                 "menu": null,
                 "title": "Combo Dinner",
+                "description": "",
                 "items": [
                     {
                         "uuid": "rp-hUKw2EeqmutWEYkgV4Q",
@@ -3335,13 +3336,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "OQGzYKwtEeqOwFcX30F_Vg",
                 "menu": null,
                 "title": "Side Orders",
+                "description": "",
                 "items": [
                     {
                         "uuid": "_me6wKwwEeqc98vGyR0RVQ",
@@ -3692,13 +3693,13 @@
                             }
                         ]
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "F2_zYKwtEeqeJ6dkDz61jQ",
                 "menu": null,
                 "title": "Kids Menu",
+                "description": "Served with fries and pop.",
                 "items": [
                     {
                         "uuid": "OAjFsKwzEeqc98vGyR0RVQ",
@@ -3793,13 +3794,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "Served with fries and pop."
+                ]
             },
             {
                 "uuid": "RY2F8KwtEeqKyFmshvb4Ew",
                 "menu": null,
                 "title": "Desserts",
+                "description": "",
                 "items": [
                     {
                         "uuid": "H_RqQBrVEeusd3m5-QkEtQ",
@@ -3889,13 +3890,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "PrHY0KwtEeq8CGVXV4NivQ",
                 "menu": null,
                 "title": "Beverages ",
+                "description": "20 oz.",
                 "items": [
                     {
                         "uuid": "i5UdoKwuEeqmutWEYkgV4Q",
@@ -4042,13 +4043,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": "20 oz."
+                ]
             },
             {
                 "uuid": "87ZxYKwsEeq1Vzv-OF25-Q",
                 "menu": null,
                 "title": "Mains (Archived)",
+                "description": "",
                 "items": [
                     {
                         "uuid": "SSzoQKw3EeqoeNsM3iTETA",
@@ -4147,13 +4148,13 @@
                             }
                         ]
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "Db3NsKwtEeqtJ12PMYedrA",
                 "menu": null,
                 "title": "Family Specials (Archived)",
+                "description": "Served with fries.",
                 "items": [
                     {
                         "uuid": "gUQRIKw0EeqsVwGaDke6VQ",
@@ -4235,13 +4236,13 @@
                             }
                         ]
                     }
-                ],
-                "description": "Served with fries."
+                ]
             },
             {
                 "uuid": "_0T4MKwsEeqoqE8IekZ6HQ",
                 "menu": null,
                 "title": "Chicken Mix Specials (Archived)",
+                "description": "Legs, thighs, and wings.",
                 "items": [
                     {
                         "uuid": "O6LxgKw1EeqJ61O37k1iGw",
@@ -4270,13 +4271,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": "Legs, thighs, and wings."
+                ]
             },
             {
                 "uuid": "Eos0QKwtEeqSbk-YbQ5-vQ",
                 "menu": null,
                 "title": "Fish for the Family (Archived)",
+                "description": "",
                 "items": [
                     {
                         "uuid": "rqlFoKwzEeqoeNsM3iTETA",
@@ -4375,13 +4376,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "HUu8sKwtEeqRGJ8EprVfJA",
                 "menu": null,
                 "title": "Chicken Wings ",
+                "description": "",
                 "items": [
                     {
                         "uuid": "dwYREKwyEeqa4UEIkr7X3A",
@@ -4437,13 +4438,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "A8ZEIaw5Eeq0kxF4PTXp8A",
                 "menu": null,
                 "title": "Dinner Side Orders (Archived)",
+                "description": "",
                 "items": [
                     {
                         "uuid": "m7w-YKw5EeqXwDEngESKWQ",
@@ -4571,13 +4572,13 @@
                         "image_url": null,
                         "modifiers": []
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "MjMloKwtEeqjGHmAZIM8JA",
                 "menu": null,
                 "title": "Boneless Chicken (Archived)",
+                "description": "",
                 "items": [
                     {
                         "uuid": "QKmNUKwxEeqoeNsM3iTETA",
@@ -4643,13 +4644,13 @@
                             }
                         ]
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "KGWvwKwtEeqVkm-7J8M60A",
                 "menu": null,
                 "title": "Honey BBQ and Buffalo 1/2 Wings (Archived)",
+                "description": "",
                 "items": [
                     {
                         "uuid": "5t128KwxEeqmutWEYkgV4Q",
@@ -4715,15 +4716,14 @@
                             }
                         ]
                     }
-                ],
-                "description": ""
+                ]
             },
             {
                 "uuid": "SpIl4BrKEeusd3m5-QkEtQ",
                 "menu": null,
                 "title": "",
-                "items": [],
-                "description": ""
+                "description": "",
+                "items": []
             }
         ]
     }

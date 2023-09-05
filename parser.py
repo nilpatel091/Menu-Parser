@@ -50,6 +50,7 @@ for category in response["menu_sections"]:
     new_category["uuid"] = category["uuid"]
     new_category["menu"] = None
     new_category["title"] = category["name"]
+    new_category["description"] = category["description"]
     new_category["items"] = []
     for item_uuid in category["items"]:
         item = menu["items"]
