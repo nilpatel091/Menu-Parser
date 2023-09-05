@@ -271,15 +271,14 @@
         "categories": [
             {
                 "uuid": "AA1u8BojEeuxOWdvFQ5NpA",
-                "menu": null,
                 "title": "Salads",
+                "subtitle": null,
                 "description": "Comes with choice of 1 dressing and pita bread. Dressing choice: homemade house dressing or Italian dressing, blue cheese, Caeser, lite Italian, balsamic vinaigrette, ranch, oil and vinegar or honey mustard. ",
                 "items": [
                     {
                         "uuid": "Ttv-cBojEeuxOWdvFQ5NpA",
                         "title": " Garden Salad",
                         "price": 9.6,
-                        "category": null,
                         "description": "Iceberg lettuce, romaine lettuce, carrots, cucumber, green pepper, purple cabbage. Add protein for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -301,7 +300,6 @@
                         "uuid": "6W8RwBojEeuxOWdvFQ5NpA",
                         "title": " House Greek Salad",
                         "price": 10.8,
-                        "category": null,
                         "description": "Romaine lettuce, Parmesan cheese and croutons. Add protein for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -323,7 +321,6 @@
                         "uuid": "d3lfwBokEeuxOWdvFQ5NpA",
                         "title": "Classic Caesar",
                         "price": 8.4,
-                        "category": null,
                         "description": "Romaine lettuce, Parmesan cheese and croutons. Add protein for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -345,7 +342,6 @@
                         "uuid": "P2KW8BolEeuxOWdvFQ5NpA",
                         "title": "Baked Salmon Salad",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -361,7 +357,6 @@
                         "uuid": "Tt42cBolEeuxOWdvFQ5NpA",
                         "title": "Crabmeat Salad",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -377,7 +372,6 @@
                         "uuid": "Y1cmIBolEeuxOWdvFQ5NpA",
                         "title": "Cold Chicken Salad",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -393,7 +387,6 @@
                         "uuid": "boD3sBolEeuxOWdvFQ5NpA",
                         "title": "Chef Salad",
                         "price": 14.4,
-                        "category": null,
                         "description": "Roast beef, ham, turkey, and provolone.",
                         "image_url": null,
                         "modifiers": [
@@ -409,7 +402,6 @@
                         "uuid": "lY774BolEeuxOWdvFQ5NpA",
                         "title": "Antipasto",
                         "price": 14.4,
-                        "category": null,
                         "description": "Mortadella, salami, Swiss.",
                         "image_url": null,
                         "modifiers": [
@@ -425,15 +417,14 @@
             },
             {
                 "uuid": "c6xxQBp8Eeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Pasta",
+                "subtitle": null,
                 "description": "All pasta served with garlic bread and choice of ziti or linguini. Our Alfredo sauce is homemade.",
                 "items": [
                     {
                         "uuid": "jEdsUBp8Eeusd3m5-QkEtQ",
                         "title": "Chicken Parmigiana",
                         "price": 13.6,
-                        "category": null,
                         "description": "Crispy fired chicken, marinara and mozzarella.",
                         "image_url": null,
                         "modifiers": [
@@ -449,7 +440,6 @@
                         "uuid": "ti1IoBp8Eeusd3m5-QkEtQ",
                         "title": "Veal Parmigiana",
                         "price": 13.6,
-                        "category": null,
                         "description": "Crispy fried veal, marinara and mozzarella.",
                         "image_url": null,
                         "modifiers": [
@@ -465,7 +455,6 @@
                         "uuid": "yfq2EBp8Eeusd3m5-QkEtQ",
                         "title": "Meatball Parmigiana",
                         "price": 13.6,
-                        "category": null,
                         "description": "Baked meatballs, marinara and mozzarella.",
                         "image_url": null,
                         "modifiers": [
@@ -481,7 +470,6 @@
                         "uuid": "2JgqkBp8Eeusd3m5-QkEtQ",
                         "title": "Eggplant Parmigiana",
                         "price": 13.6,
-                        "category": null,
                         "description": "Crispy fried eggplant, marinara and mozzarella.",
                         "image_url": null,
                         "modifiers": [
@@ -497,7 +485,6 @@
                         "uuid": "_P8DkBp8Eeusd3m5-QkEtQ",
                         "title": "Chicken Broccoli Alfredo",
                         "price": 13.6,
-                        "category": null,
                         "description": "Grilled chicken, broccoli and homemade Alfredo sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -513,7 +500,6 @@
                         "uuid": "DUHDoBp9Eeusd3m5-QkEtQ",
                         "title": "Shrimp Broccoli Alfredo",
                         "price": 16.6,
-                        "category": null,
                         "description": "Grilled shrimp broccoli and homemade Alfredo sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -529,7 +515,6 @@
                         "uuid": "JFmhIBp9Eeusd3m5-QkEtQ",
                         "title": "Steak Broccoli Alfredo",
                         "price": 16.6,
-                        "category": null,
                         "description": "Steak tips, broccoli and homemade Alfredo sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -545,7 +530,6 @@
                         "uuid": "iqrocBp-Eeusd3m5-QkEtQ",
                         "title": "Ziti and Sauce",
                         "price": 10.6,
-                        "category": null,
                         "description": "Served with your choice of sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -561,7 +545,6 @@
                         "uuid": "CwPPoBp_Eeusd3m5-QkEtQ",
                         "title": "Lasagna",
                         "price": 13.2,
-                        "category": null,
                         "description": "Traditional  with meat.",
                         "image_url": null,
                         "modifiers": []
@@ -570,7 +553,6 @@
                         "uuid": "HldSIBp_Eeusd3m5-QkEtQ",
                         "title": "Mac and Cheese",
                         "price": 10.8,
-                        "category": null,
                         "description": "Elbow pasta, homemade cheese sauce.",
                         "image_url": null,
                         "modifiers": []
@@ -579,7 +561,6 @@
                         "uuid": "TdvHsBp_Eeusd3m5-QkEtQ",
                         "title": "Stuffed Shells",
                         "price": 13.2,
-                        "category": null,
                         "description": "Stuffed with a ricotta mix, topped with marinara and mozzarella.",
                         "image_url": null,
                         "modifiers": []
@@ -588,7 +569,6 @@
                         "uuid": "Z7w7EBp_Eeusd3m5-QkEtQ",
                         "title": "Cheese Ravioli",
                         "price": 11.8,
-                        "category": null,
                         "description": "Marinara and mozzarella.",
                         "image_url": null,
                         "modifiers": []
@@ -597,15 +577,14 @@
             },
             {
                 "uuid": "Ya6zYBp_Eeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Cheese Pizza",
+                "subtitle": null,
                 "description": "Add toppings for an additional charge.",
                 "items": [
                     {
                         "uuid": "1y358BqBEeusd3m5-QkEtQ",
                         "title": "Cheese Pizza",
                         "price": 75.35,
-                        "category": null,
                         "description": "Homemade pizza sauce and blended pizza cheese.",
                         "image_url": null,
                         "modifiers": [
@@ -621,7 +600,6 @@
                         "uuid": "r3dkQBqCEeusd3m5-QkEtQ",
                         "title": "Individual Cheese Pizza",
                         "price": 8.39,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -637,7 +615,6 @@
                         "uuid": "wmQ1sBqCEeusd3m5-QkEtQ",
                         "title": "Gluten Free 12\" Cheese Pizza",
                         "price": 13.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -653,15 +630,14 @@
             },
             {
                 "uuid": "DThGYBqAEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Speciality Pizza",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "1c50gBqCEeusd3m5-QkEtQ",
                         "title": "BBQ Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "BBQ Sauce base, grilled chicken, onions and feta cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -670,7 +646,6 @@
                         "uuid": "BYQMMBqDEeusd3m5-QkEtQ",
                         "title": "Buffalo Bomb Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Blue cheese base Buffalo grilled chicken, onions and banana pepper ring.",
                         "image_url": null,
                         "modifiers": []
@@ -679,7 +654,6 @@
                         "uuid": "FwySsBqDEeusd3m5-QkEtQ",
                         "title": "Veggie Lovers Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base, onions, pepper, mushrooms, sliced olives and cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -688,7 +662,6 @@
                         "uuid": "JrVcsBqDEeusd3m5-QkEtQ",
                         "title": "Hawaiian Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base, ham, pineapple and cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -697,7 +670,6 @@
                         "uuid": "P69nsBqDEeusd3m5-QkEtQ",
                         "title": "Greek Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Feta cheese, onions, tomatoes, olives ,homemade house sauce and pizza cheese. ",
                         "image_url": null,
                         "modifiers": []
@@ -706,7 +678,6 @@
                         "uuid": "VDBtsBqDEeusd3m5-QkEtQ",
                         "title": "Meat Lovers Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base, pepperoni, meatballs, beacon, sausage and cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -715,7 +686,6 @@
                         "uuid": "YZMYQBqDEeusd3m5-QkEtQ",
                         "title": "Shrimp Broccoli Alfredo Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Alfredo sauce base, grilled shrimp broccoli and cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -724,7 +694,6 @@
                         "uuid": "dVQpoBqDEeusd3m5-QkEtQ",
                         "title": "Eggplant Pam Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base, breaded eggplant (topped with marinara and cheese).",
                         "image_url": null,
                         "modifiers": []
@@ -733,7 +702,6 @@
                         "uuid": "pIC7MBqDEeusd3m5-QkEtQ",
                         "title": "Philly Steak Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base, shaved steak, grilled onion pepper mushroom banana pepper ring and cheese. ",
                         "image_url": null,
                         "modifiers": []
@@ -742,7 +710,6 @@
                         "uuid": "tvEwsBqDEeusd3m5-QkEtQ",
                         "title": "Linguica Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base topped with crispy linguica.",
                         "image_url": null,
                         "modifiers": []
@@ -751,7 +718,6 @@
                         "uuid": "0D_EUBqDEeusd3m5-QkEtQ",
                         "title": "Indian Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base topped with chili peppers, ginger, cilantro, onions, green peppers and broccoli with mozzarella cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -760,7 +726,6 @@
                         "uuid": "27mxsBqDEeusd3m5-QkEtQ",
                         "title": "Scampi Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "A garlic-lemon based sauce topped with seasoned shrimp ,parsley, and mozzarella cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -769,7 +734,6 @@
                         "uuid": "5HrnsBqDEeusd3m5-QkEtQ",
                         "title": "Mexican Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza sauce base, ham burger, onions, jalapenos, slices tomatoes, slices olives and cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -778,7 +742,6 @@
                         "uuid": "9SGZsBqDEeusd3m5-QkEtQ",
                         "title": "White Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Oil roasted garlic and ricotta cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -787,7 +750,6 @@
                         "uuid": "B_dgsBqEEeusd3m5-QkEtQ",
                         "title": "Honey Mustard Chicken Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Ranch based pizza topped with crispy honey mustard chicken and mozzarella cheese.  ",
                         "image_url": null,
                         "modifiers": []
@@ -796,7 +758,6 @@
                         "uuid": "FSuBMBqEEeusd3m5-QkEtQ",
                         "title": "Mediterranean Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Garlic sauce base topped with pizza cheese, feta, spinach, eggplant and fresh garlic.",
                         "image_url": null,
                         "modifiers": []
@@ -805,7 +766,6 @@
                         "uuid": "HahbMBqEEeusd3m5-QkEtQ",
                         "title": "Reuben Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "1000 Island sauce base, grilled pastrami, Swiss cheese and grilled onions.",
                         "image_url": null,
                         "modifiers": []
@@ -814,7 +774,6 @@
                         "uuid": "KcnTMBqEEeusd3m5-QkEtQ",
                         "title": "Piccata Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "No sauce pizza, pizza cheese fresh garlic, tomato, parsley, fresh mozzarella smothered with garlic butter.",
                         "image_url": null,
                         "modifiers": []
@@ -823,7 +782,6 @@
                         "uuid": "OWQeQBqEEeusd3m5-QkEtQ",
                         "title": "Bacon Cheddar Delight",
                         "price": 21.6,
-                        "category": null,
                         "description": "Bacon, cheddar cheese, pizza sauce, and mozzarella cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -832,7 +790,6 @@
                         "uuid": "UNn6QBqEEeusd3m5-QkEtQ",
                         "title": "Spinach Feta Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Spinach, feta, and mozzarella cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -841,7 +798,6 @@
                         "uuid": "X-arUBqEEeusd3m5-QkEtQ",
                         "title": "Chicken Bacon Ranch Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Ranch sauce base, grilled chicken, beacon, red onions and cheese (glazed with ranch dressing).",
                         "image_url": null,
                         "modifiers": []
@@ -850,7 +806,6 @@
                         "uuid": "ex0RwBqEEeusd3m5-QkEtQ",
                         "title": "Aks Supreme",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pepperoni, sausage, hamburger, peppers, onions, olives, and mushrooms.",
                         "image_url": null,
                         "modifiers": []
@@ -859,7 +814,6 @@
                         "uuid": "kvwP0BqEEeusd3m5-QkEtQ",
                         "title": "Chicken Tikka Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Chicken tikka, tikka gravy, pizza cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -868,7 +822,6 @@
                         "uuid": "nd7GQBqEEeusd3m5-QkEtQ",
                         "title": "Paneer Tikka Pizza",
                         "price": 21.6,
-                        "category": null,
                         "description": "Paneer tikka, tikka gravy, pizza cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -877,15 +830,14 @@
             },
             {
                 "uuid": "F1_DIBqAEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Calzones",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "Wou0gBq1Eeusd3m5-QkEtQ",
                         "title": "Pizza Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pizza cheese and marinara sauce.",
                         "image_url": null,
                         "modifiers": []
@@ -894,7 +846,6 @@
                         "uuid": "3I230Bq1Eeusd3m5-QkEtQ",
                         "title": "Ham Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Provolone cheese, peppers, ham and onions.",
                         "image_url": null,
                         "modifiers": []
@@ -903,7 +854,6 @@
                         "uuid": "qR9BYBq2Eeusd3m5-QkEtQ",
                         "title": "Veggie Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Onions, peppers, and mushrooms.",
                         "image_url": null,
                         "modifiers": []
@@ -912,7 +862,6 @@
                         "uuid": "v1BBUBq2Eeusd3m5-QkEtQ",
                         "title": "Chicken Teryaki Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Feta, grilled chicken, tomato, and onions.",
                         "image_url": null,
                         "modifiers": []
@@ -921,7 +870,6 @@
                         "uuid": "1Oj44Bq2Eeusd3m5-QkEtQ",
                         "title": "Italian Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Salami, hot ham, onions, mortadella, and provolone.",
                         "image_url": null,
                         "modifiers": []
@@ -930,7 +878,6 @@
                         "uuid": "74W3YBq2Eeusd3m5-QkEtQ",
                         "title": "6 Cheese Blend Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Provolone, feta, American, cheddar, ricotta, and mozzarella.",
                         "image_url": null,
                         "modifiers": []
@@ -939,7 +886,6 @@
                         "uuid": "CYsX4Bq3Eeusd3m5-QkEtQ",
                         "title": "Traditional Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Pepperoni, pizza cheese, marinara sauce and ricotta cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -948,7 +894,6 @@
                         "uuid": "cq-Y4Bq3Eeusd3m5-QkEtQ",
                         "title": "Chicken Parm Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Breaded crispy chicken, pizza cheese, marinara and ricotta cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -957,7 +902,6 @@
                         "uuid": "jOl24Bq3Eeusd3m5-QkEtQ",
                         "title": "Veal Parm Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Breaded crispy veal, pizza cheese, marinara and ricotta cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -966,7 +910,6 @@
                         "uuid": "p9O5IBq3Eeusd3m5-QkEtQ",
                         "title": "Eggplant Parm Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Breaded crispy eggplant, pizza cheese, marinara and ricotta cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -975,7 +918,6 @@
                         "uuid": "WRus8Bq5Eeusd3m5-QkEtQ",
                         "title": "Meatball Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Meatballs, pizza cheese, marinara and ricotta cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -984,7 +926,6 @@
                         "uuid": "dBnsYBq5Eeusd3m5-QkEtQ",
                         "title": "Steak and Cheese Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Shaved steak and pizza cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -993,7 +934,6 @@
                         "uuid": "iT-94Bq5Eeusd3m5-QkEtQ",
                         "title": "Buffalo Finger Calzone",
                         "price": 21.6,
-                        "category": null,
                         "description": "Buffalo grilled or fried chicken and pizza cheese. ",
                         "image_url": null,
                         "modifiers": [
@@ -1009,7 +949,6 @@
                         "uuid": "nXi-YBq5Eeusd3m5-QkEtQ",
                         "title": "Chicken Tikka Calzone",
                         "price": 22.8,
-                        "category": null,
                         "description": "Chicken tikka, tikka gravy, pizza cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -1018,7 +957,6 @@
                         "uuid": "2S1R8Bq5Eeusd3m5-QkEtQ",
                         "title": "Paneer Tikka Calzone",
                         "price": 22.8,
-                        "category": null,
                         "description": "Paneer tikka, tikka gravy, pizza cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -1027,7 +965,6 @@
                         "uuid": "51fgYBq5Eeusd3m5-QkEtQ",
                         "title": "Chicken Broccoli Alfredo Calzone",
                         "price": 22.8,
-                        "category": null,
                         "description": "Grilled chicken, broccoli, red onions, Alfredo sauce and pizza cheese. ",
                         "image_url": null,
                         "modifiers": []
@@ -1036,7 +973,6 @@
                         "uuid": "_MrAcBq5Eeusd3m5-QkEtQ",
                         "title": "Spinach Feta Calzone",
                         "price": 22.8,
-                        "category": null,
                         "description": "Feta cheese, red onions, spinach, tossed with homemade house sauce and pizza cheese. ",
                         "image_url": null,
                         "modifiers": []
@@ -1045,7 +981,6 @@
                         "uuid": "E-PWcBq6Eeusd3m5-QkEtQ",
                         "title": "Steak Bomb Calzone",
                         "price": 22.8,
-                        "category": null,
                         "description": "Onions, peppers, and mushrooms and pepperoni.",
                         "image_url": null,
                         "modifiers": []
@@ -1054,7 +989,6 @@
                         "uuid": "KE68YBq6Eeusd3m5-QkEtQ",
                         "title": "BBQ Calzone Calzone",
                         "price": 22.8,
-                        "category": null,
                         "description": "BBQ grilled or crispy chicken.",
                         "image_url": null,
                         "modifiers": []
@@ -1063,7 +997,6 @@
                         "uuid": "PRdSsBq6Eeusd3m5-QkEtQ",
                         "title": "Create Your Own Calzone",
                         "price": 22.8,
-                        "category": null,
                         "description": "Make your customized calzone.",
                         "image_url": null,
                         "modifiers": []
@@ -1072,15 +1005,14 @@
             },
             {
                 "uuid": "J0HsoBqAEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Sandwiches",
+                "subtitle": null,
                 "description": "Served with your choice of french fries, chips or onions rings for additional charge. All items are served with a 8 oz. pattie.",
                 "items": [
                     {
                         "uuid": "hwmxwBq-Eeusd3m5-QkEtQ",
                         "title": "Cheeseburger",
                         "price": 10.2,
-                        "category": null,
                         "description": "American cheese, lettuce, tomato, red onions, pickles. Add bacon for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -1102,7 +1034,6 @@
                         "uuid": "9z2aEBq-Eeusd3m5-QkEtQ",
                         "title": "Hamburger",
                         "price": 8.0,
-                        "category": null,
                         "description": "Piled with sauteed onions and peppers, mushrooms, bacon, American cheese and spicy BBQ sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -1118,7 +1049,6 @@
                         "uuid": "KEOmkBq_Eeusd3m5-QkEtQ",
                         "title": "Bourbon Burger",
                         "price": 9.6,
-                        "category": null,
                         "description": "Spicy ketchup, pepper jack cheese, lettuce, tomato and Bourbon onions.",
                         "image_url": null,
                         "modifiers": [
@@ -1134,7 +1064,6 @@
                         "uuid": "fskoABq_Eeusd3m5-QkEtQ",
                         "title": "Double Cheeseburger",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1150,7 +1079,6 @@
                         "uuid": "lh4OgBq_Eeusd3m5-QkEtQ",
                         "title": "Double Hamburger",
                         "price": 11.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1166,7 +1094,6 @@
                         "uuid": "qPtPkBq_Eeusd3m5-QkEtQ",
                         "title": "The Blanca Burger",
                         "price": 13.2,
-                        "category": null,
                         "description": "All beef burger with sauteed onions, American and provolone cheese, mayo on a toasted bun off the grill.",
                         "image_url": null,
                         "modifiers": [
@@ -1182,7 +1109,6 @@
                         "uuid": "xcEIkBq_Eeusd3m5-QkEtQ",
                         "title": "Chipotle Burger",
                         "price": 10.8,
-                        "category": null,
                         "description": "Bacon, jalapenos, lettuce, tomato and spicy chipotle mayo.",
                         "image_url": null,
                         "modifiers": [
@@ -1198,7 +1124,6 @@
                         "uuid": "-qLIoBq_Eeusd3m5-QkEtQ",
                         "title": "Veggie Burger",
                         "price": 9.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1214,7 +1139,6 @@
                         "uuid": "CItsEBrAEeusd3m5-QkEtQ",
                         "title": "Black Bean Burger",
                         "price": 8.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1230,7 +1154,6 @@
                         "uuid": "FHYcoBrAEeusd3m5-QkEtQ",
                         "title": "Grilled Cheese Sandwiches",
                         "price": 8.4,
-                        "category": null,
                         "description": "Texas toast slice bread with a blend of American, provolone, mozzarella and cheddar cheese on the grill for a melty cheese taste. ",
                         "image_url": null,
                         "modifiers": [
@@ -1246,7 +1169,6 @@
                         "uuid": "QhbeEBrAEeusd3m5-QkEtQ",
                         "title": "Greek Burger",
                         "price": 10.8,
-                        "category": null,
                         "description": "8 oz. pattie, feta cheese, black olives, lettuce, tomato, onions.",
                         "image_url": null,
                         "modifiers": [
@@ -1262,7 +1184,6 @@
                         "uuid": "WR2kkBrAEeusd3m5-QkEtQ",
                         "title": "Pizza Burger",
                         "price": 10.8,
-                        "category": null,
                         "description": "8 oz. pattie, marinara sauce and topped with mozzarella cheese.",
                         "image_url": null,
                         "modifiers": [
@@ -1278,15 +1199,14 @@
             },
             {
                 "uuid": "NHGq4BqBEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": " Cold Subs",
+                "subtitle": null,
                 "description": "All subs served with choice of lettuce, tomatoes, onions, mushrooms, green peppers, hots and pickles. Choice of mayo, mustard, ketchup, BBQ sauce and honey mustard. All subs available as wraps. ",
                 "items": [
                     {
                         "uuid": "dwwpUBrEEeusd3m5-QkEtQ",
                         "title": "Ham and Cheese  Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1308,7 +1228,6 @@
                         "uuid": "Y6clMBrFEeusd3m5-QkEtQ",
                         "title": "Turkey Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1330,7 +1249,6 @@
                         "uuid": "bZI1MBrFEeusd3m5-QkEtQ",
                         "title": "Roast Beef Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1352,7 +1270,6 @@
                         "uuid": "llOOsBrFEeusd3m5-QkEtQ",
                         "title": "AK's Special Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Ham, roast beef and Swiss cheese.",
                         "image_url": null,
                         "modifiers": [
@@ -1374,7 +1291,6 @@
                         "uuid": "reuYsBrFEeusd3m5-QkEtQ",
                         "title": "Italian Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Salami, ham, mortadella and provolone.",
                         "image_url": null,
                         "modifiers": [
@@ -1396,7 +1312,6 @@
                         "uuid": "zvIIoBrFEeusd3m5-QkEtQ",
                         "title": "American Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Ham, turkey, American cheese.",
                         "image_url": null,
                         "modifiers": [
@@ -1418,7 +1333,6 @@
                         "uuid": "54WwsBrFEeusd3m5-QkEtQ",
                         "title": "Genoa Salami and Cheese Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Genoa salami and cheese.",
                         "image_url": null,
                         "modifiers": [
@@ -1440,7 +1354,6 @@
                         "uuid": "AHS_MBrGEeusd3m5-QkEtQ",
                         "title": "Chicken Salad Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1462,7 +1375,6 @@
                         "uuid": "DoNhMBrGEeusd3m5-QkEtQ",
                         "title": "Tuna Salad Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1484,7 +1396,6 @@
                         "uuid": "GPmaMBrGEeusd3m5-QkEtQ",
                         "title": "Crabmeat Cold Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1506,15 +1417,14 @@
             },
             {
                 "uuid": "X4o60BqBEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Hot Subs",
+                "subtitle": null,
                 "description": "All subs served with choice of lettuce, tomatoes, onions, mushrooms, green peppers, hots and pickles. Choice of mayo, mustard, ketchup, BBQ sauce and honey mustard. All subs available as wraps.",
                 "items": [
                     {
                         "uuid": "pd7wMBrGEeusd3m5-QkEtQ",
                         "title": "Steak Hot Sub",
                         "price": 11.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1536,7 +1446,6 @@
                         "uuid": "V96tMBrGEeusd3m5-QkEtQ",
                         "title": "Steak and Cheese Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1558,7 +1467,6 @@
                         "uuid": "VDyKwBrHEeusd3m5-QkEtQ",
                         "title": "Steak Combo Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Grilled onions, peppers, mushrooms.",
                         "image_url": null,
                         "modifiers": [
@@ -1580,7 +1488,6 @@
                         "uuid": "Z8qlQBrHEeusd3m5-QkEtQ",
                         "title": "Steak and Eggs Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Grilled onions, peppers, mushrooms.",
                         "image_url": null,
                         "modifiers": [
@@ -1602,7 +1509,6 @@
                         "uuid": "kzZeQBrHEeusd3m5-QkEtQ",
                         "title": "Steak Supreme Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Grilled onions, peppers, mushrooms and pepperoni.",
                         "image_url": null,
                         "modifiers": [
@@ -1624,7 +1530,6 @@
                         "uuid": "vtVcQBrHEeusd3m5-QkEtQ",
                         "title": "Sausage Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Served with onions and peppers.",
                         "image_url": null,
                         "modifiers": [
@@ -1646,7 +1551,6 @@
                         "uuid": "_lzJwBrHEeusd3m5-QkEtQ",
                         "title": "Hot Pastrami Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Served with onions and peppers.",
                         "image_url": null,
                         "modifiers": [
@@ -1668,7 +1572,6 @@
                         "uuid": "BqoIQBrIEeusd3m5-QkEtQ",
                         "title": "Burger Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Choice of cheeseburger or hamburger plus toppings.",
                         "image_url": null,
                         "modifiers": [
@@ -1696,7 +1599,6 @@
                         "uuid": "So_t4BrIEeusd3m5-QkEtQ",
                         "title": "BLT Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Bacon, lettuce and tomato.",
                         "image_url": null,
                         "modifiers": [
@@ -1718,7 +1620,6 @@
                         "uuid": "j10mQBrIEeusd3m5-QkEtQ",
                         "title": "Egg and Cheese Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Bacon, lettuce and tomato.",
                         "image_url": null,
                         "modifiers": [
@@ -1740,7 +1641,6 @@
                         "uuid": "nQfWUBrIEeusd3m5-QkEtQ",
                         "title": "Fish Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Bacon, lettuce and tomato.",
                         "image_url": null,
                         "modifiers": [
@@ -1762,7 +1662,6 @@
                         "uuid": "rCx8MBrIEeusd3m5-QkEtQ",
                         "title": "Chicken Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Grilled or crispy.",
                         "image_url": null,
                         "modifiers": [
@@ -1790,7 +1689,6 @@
                         "uuid": "42gKwBrIEeusd3m5-QkEtQ",
                         "title": "Chicken Finger Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1812,7 +1710,6 @@
                         "uuid": "-T2kQBrIEeusd3m5-QkEtQ",
                         "title": "Buffalo Bomb Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Grilled or crispy with Buffalo chicken and bleu cheese sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -1840,7 +1737,6 @@
                         "uuid": "rGpTEBrJEeusd3m5-QkEtQ",
                         "title": "Beef Gyro Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Processed beef meat , lettuce, tomato, tzatziki sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -1862,7 +1758,6 @@
                         "uuid": "zmDIUBrJEeusd3m5-QkEtQ",
                         "title": " Steak Tip Hot Sub",
                         "price": 15.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1884,7 +1779,6 @@
                         "uuid": "2io1QBrJEeusd3m5-QkEtQ",
                         "title": "Chicken Parmigiana Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "Chicken cutlet, marinara sauce and provolone cheese.",
                         "image_url": null,
                         "modifiers": [
@@ -1906,7 +1800,6 @@
                         "uuid": "I1XlwBrKEeusd3m5-QkEtQ",
                         "title": "Veal Parmigiana Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1928,7 +1821,6 @@
                         "uuid": "LNlaUBrKEeusd3m5-QkEtQ",
                         "title": "Eggplant Parmigiana Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1950,7 +1842,6 @@
                         "uuid": "Ns9m0BrKEeusd3m5-QkEtQ",
                         "title": "Meatball Parmigiana Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1972,7 +1863,6 @@
                         "uuid": "Pr1uUBrKEeusd3m5-QkEtQ",
                         "title": "Pastrami Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -1994,7 +1884,6 @@
                         "uuid": "eJviUBrKEeusd3m5-QkEtQ",
                         "title": "BBQ Pulled Pork Hot Sub",
                         "price": 12.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2016,15 +1905,14 @@
             },
             {
                 "uuid": "kWmQUBqBEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Speciality Wraps",
+                "subtitle": null,
                 "description": "Choice of white or wheat wrap, if you want to make it deluxe for an additional charge.",
                 "items": [
                     {
                         "uuid": "A1tyIBrLEeusd3m5-QkEtQ",
                         "title": "Grilled Chicken Caesar Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "Grilled chicken, romaine lettuce, Parmesan cheese, crutons, and Caesar dressing.",
                         "image_url": null,
                         "modifiers": [
@@ -2046,7 +1934,6 @@
                         "uuid": "bbpH4BrLEeusd3m5-QkEtQ",
                         "title": "Steak Caesar Wrap",
                         "price": 12.0,
-                        "category": null,
                         "description": "Steak tips, romaine lettuce, Parmigiana cheese, croutons, and Caesar dressing.",
                         "image_url": null,
                         "modifiers": [
@@ -2068,7 +1955,6 @@
                         "uuid": "5e78YBrLEeusd3m5-QkEtQ",
                         "title": "Buffalo Chicken Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "Crispy or grilled Buffalo chicken, bleu cheese, lettuce and tomato. ",
                         "image_url": null,
                         "modifiers": [
@@ -2096,7 +1982,6 @@
                         "uuid": "EsKp0BrMEeusd3m5-QkEtQ",
                         "title": "BBQ Grilled Chicken Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "BBQ chicken, onions, lettuce and feta cheese. ",
                         "image_url": null,
                         "modifiers": [
@@ -2118,7 +2003,6 @@
                         "uuid": "TX4QUBrMEeusd3m5-QkEtQ",
                         "title": "Crispy Chicken Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "BBQ chicken, onions, lettuce and feta cheese. ",
                         "image_url": null,
                         "modifiers": [
@@ -2140,7 +2024,6 @@
                         "uuid": "XMyFUBrMEeusd3m5-QkEtQ",
                         "title": "Greek Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "Lettuce, Tomato, onions, olives, cucumber, feta and Greek dressing. Add chicken for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -2168,7 +2051,6 @@
                         "uuid": "oAONUBrMEeusd3m5-QkEtQ",
                         "title": "Hummus Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "Hummus, romaine lettuce, olives, onions and Greek dressing. Add chicken for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -2196,7 +2078,6 @@
                         "uuid": "vVvCUBrMEeusd3m5-QkEtQ",
                         "title": "Shrimp Wrap",
                         "price": 14.4,
-                        "category": null,
                         "description": "Customize your wrap.",
                         "image_url": null,
                         "modifiers": [
@@ -2218,7 +2099,6 @@
                         "uuid": "5phmUBrMEeusd3m5-QkEtQ",
                         "title": "Chicken Stir Fry Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "Grilled chicken, onion, tomatoes, peppers, mushrooms, teriyaki sauce and provolone cheese.",
                         "image_url": null,
                         "modifiers": [
@@ -2240,7 +2120,6 @@
                         "uuid": "ANhe0BrNEeusd3m5-QkEtQ",
                         "title": "Chicken Finger Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "Customize your wrap.",
                         "image_url": null,
                         "modifiers": [
@@ -2262,7 +2141,6 @@
                         "uuid": "IP5Z0BrNEeusd3m5-QkEtQ",
                         "title": "Turkey Club Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "BLT with turkey and mayo.",
                         "image_url": null,
                         "modifiers": [
@@ -2284,7 +2162,6 @@
                         "uuid": "KfpO4BrNEeusd3m5-QkEtQ",
                         "title": "Chicken Tikka Wrap",
                         "price": 12.0,
-                        "category": null,
                         "description": "Chicken tikka, lettuce and tomato.",
                         "image_url": null,
                         "modifiers": [
@@ -2306,7 +2183,6 @@
                         "uuid": "QDyM4BrNEeusd3m5-QkEtQ",
                         "title": "Paneer Tikka Wrap",
                         "price": 12.0,
-                        "category": null,
                         "description": "Paneer tikka, lettuce and tomato.",
                         "image_url": null,
                         "modifiers": [
@@ -2328,7 +2204,6 @@
                         "uuid": "Ub744BrNEeusd3m5-QkEtQ",
                         "title": "The AK Wrap",
                         "price": 12.0,
-                        "category": null,
                         "description": "Lightly toasted and stuffed with crispy chicken, bacon, french fries, mozzarella and ranch dressing. ",
                         "image_url": null,
                         "modifiers": [
@@ -2350,7 +2225,6 @@
                         "uuid": "bjBQUBrNEeusd3m5-QkEtQ",
                         "title": "Veggie Wrap",
                         "price": 10.8,
-                        "category": null,
                         "description": "Lettuce, tomato, onions, cucumbers, olives, feta, banana and green peppers, choice of dressing. ",
                         "image_url": null,
                         "modifiers": [
@@ -2378,7 +2252,6 @@
                         "uuid": "h2Fw4BrNEeusd3m5-QkEtQ",
                         "title": "Steak and Cheese Wrap",
                         "price": 12.0,
-                        "category": null,
                         "description": "Customize your wrap.",
                         "image_url": null,
                         "modifiers": [
@@ -2400,15 +2273,14 @@
             },
             {
                 "uuid": "IBWLABrOEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "Club Sandwiches",
+                "subtitle": null,
                 "description": "Triple decker club sandwich served on toast with bacon, lettuce, tomato, mayo. Served with choice of french fries or onion rings. ",
                 "items": [
                     {
                         "uuid": "NnOOYBrOEeusd3m5-QkEtQ",
                         "title": "BLT Club Sandwich",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2424,7 +2296,6 @@
                         "uuid": "scI9oBz-Eeucm-en2keviQ",
                         "title": "Cheeseburger Club Sandwich",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2440,7 +2311,6 @@
                         "uuid": "scJksBz-Eeucm-en2keviQ",
                         "title": "Chicken Salad Club Sandwich",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2456,7 +2326,6 @@
                         "uuid": "w8_5sBz-Eeucm-en2keviQ",
                         "title": "Tuna Salad Club Sandwich",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2472,7 +2341,6 @@
                         "uuid": "0ZG0MBz-Eeucm-en2keviQ",
                         "title": "Turkey Club Sandwich",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2488,7 +2356,6 @@
                         "uuid": "qhi5MBz-Eeucm-en2keviQ",
                         "title": "Ham and Cheese Club Sandwich",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2504,7 +2371,6 @@
                         "uuid": "7glNMBz-Eeucm-en2keviQ",
                         "title": "Roast Beef Club Sandwich",
                         "price": 14.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2520,15 +2386,14 @@
             },
             {
                 "uuid": "-S88sKw4EeqpIQn6jUdQrw",
-                "menu": null,
                 "title": "Dinner Main Entrees",
+                "subtitle": null,
                 "description": "All main entrees are with served with choice of 2 sides plus a piece of corn bread.",
                 "items": [
                     {
                         "uuid": "pYhfQKw6Eeqa4UEIkr7X3A",
                         "title": "10 Piece Chicken Nuggets",
                         "price": 5.59,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2537,7 +2402,6 @@
                         "uuid": "sOF-MKw6EeqXwDEngESKWQ",
                         "title": "4 Piece Chicken Tenders",
                         "price": 9.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2546,7 +2410,6 @@
                         "uuid": "OVrdoKwyEeqmutWEYkgV4Q",
                         "title": "3 Wings",
                         "price": 6.99,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -2555,7 +2418,6 @@
                         "uuid": "RQPxUKwyEeqoeNsM3iTETA",
                         "title": "4 Wings",
                         "price": 7.99,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -2564,7 +2426,6 @@
                         "uuid": "Zr5H8KwyEeqc98vGyR0RVQ",
                         "title": "6 Wings",
                         "price": 10.99,
-                        "category": null,
                         "description": "Served with fries, coleslaw, and bread.",
                         "image_url": null,
                         "modifiers": []
@@ -2573,7 +2434,6 @@
                         "uuid": "xFZTABrVEeusd3m5-QkEtQ",
                         "title": "Steak Tips",
                         "price": 22.8,
-                        "category": null,
                         "description": "House marinated steak tips.",
                         "image_url": null,
                         "modifiers": [
@@ -2595,7 +2455,6 @@
                         "uuid": "lhn4YBrWEeusd3m5-QkEtQ",
                         "title": "Chicken Fingers",
                         "price": 17.0,
-                        "category": null,
                         "description": "Chicken fingers selection: crispy, Buffalo, honey BBQ, teriyaki, and BBQ, with serving sauces: sweet and sour, honey mustard, and BBQ.",
                         "image_url": null,
                         "modifiers": [
@@ -2629,7 +2488,6 @@
                         "uuid": "rWpVkBrXEeusd3m5-QkEtQ",
                         "title": "Fresh Chicken Wings",
                         "price": 17.0,
-                        "category": null,
                         "description": "Chicken wings selection: crispy, Buffalo, honey BBQ, teriyaki, and BBQ, with serving sauces: sweet and sour, honey mustard, and BBQ.\n\n",
                         "image_url": null,
                         "modifiers": [
@@ -2663,7 +2521,6 @@
                         "uuid": "F466YBrYEeusd3m5-QkEtQ",
                         "title": "Whole Wing Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "3 piece whole wings.",
                         "image_url": null,
                         "modifiers": [
@@ -2685,7 +2542,6 @@
                         "uuid": "UswiIBrYEeusd3m5-QkEtQ",
                         "title": "1/2 Chicken Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2707,7 +2563,6 @@
                         "uuid": "YRaUoBrYEeusd3m5-QkEtQ",
                         "title": "Whole Chicken Dinner",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2729,7 +2584,6 @@
                         "uuid": "cm9YkBrYEeusd3m5-QkEtQ",
                         "title": "Gyro Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2751,7 +2605,6 @@
                         "uuid": "hWitIBrYEeusd3m5-QkEtQ",
                         "title": "Pork Chops",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2773,7 +2626,6 @@
                         "uuid": "kbnAoBrYEeusd3m5-QkEtQ",
                         "title": "Chicken Breast Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2795,7 +2647,6 @@
                         "uuid": "mdLPwBrYEeusd3m5-QkEtQ",
                         "title": "Chicken Teriyaki Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2817,7 +2668,6 @@
                         "uuid": "rG_6kBrYEeusd3m5-QkEtQ",
                         "title": "Roast Beef Sandwich Dinner",
                         "price": 15.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2839,7 +2689,6 @@
                         "uuid": "uBYoEBrYEeusd3m5-QkEtQ",
                         "title": "Pastrami Sandwich Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2861,7 +2710,6 @@
                         "uuid": "xXtDoBrYEeusd3m5-QkEtQ",
                         "title": "Fish Filet Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2883,7 +2731,6 @@
                         "uuid": "zSJ-IBrYEeusd3m5-QkEtQ",
                         "title": "Chicken Filet Dinner",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2905,7 +2752,6 @@
                         "uuid": "1FgLEBrYEeusd3m5-QkEtQ",
                         "title": "Burger Sandwich Dinner",
                         "price": 15.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -2927,15 +2773,14 @@
             },
             {
                 "uuid": "6K9MkKw4Eeq1QUH4pnVguA",
-                "menu": null,
                 "title": "Seafood Dinner",
+                "subtitle": null,
                 "description": "All seafood dinners come with coleslaw, french fries and tartar sauce. Or substitute: spicy fries, curly fries, sweet potato fries, onion rings, rice pilaf, corn, collard greens, yams, salad, mashed potatoes or potato salad.",
                 "items": [
                     {
                         "uuid": "e_JbMKw7Eeqc98vGyR0RVQ",
                         "title": "Catfish Dinner",
                         "price": 14.79,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2944,7 +2789,6 @@
                         "uuid": "yS0EQKw7EeqJ61O37k1iGw",
                         "title": "Ocean Perch",
                         "price": 13.29,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2953,7 +2797,6 @@
                         "uuid": "-ShXgKw7EeqoeNsM3iTETA",
                         "title": "Buffalo",
                         "price": 11.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2962,7 +2805,6 @@
                         "uuid": "Gyje4Kw8Eeqc98vGyR0RVQ",
                         "title": "Jack Salmon",
                         "price": 11.99,
-                        "category": null,
                         "description": "Whiting.",
                         "image_url": null,
                         "modifiers": []
@@ -2971,7 +2813,6 @@
                         "uuid": "TyankKw8EeqJ61O37k1iGw",
                         "title": "Shrimp",
                         "price": 20.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2980,7 +2821,6 @@
                         "uuid": "fG_6MKw8Eeqc98vGyR0RVQ",
                         "title": "Jumbo Shrimp",
                         "price": 27.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2989,7 +2829,6 @@
                         "uuid": "vS5hEKw8EeqJ61O37k1iGw",
                         "title": "Tilapia Fillets",
                         "price": 11.49,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -2998,7 +2837,6 @@
                         "uuid": "9jD0AKw8EeqXwDEngESKWQ",
                         "title": "Catfish Fillets",
                         "price": 11.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3007,7 +2845,6 @@
                         "uuid": "GiUOAKw9EeqoeNsM3iTETA",
                         "title": "Catfish Tails",
                         "price": 14.79,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3016,7 +2853,6 @@
                         "uuid": "YcZ1AKw9EeqmutWEYkgV4Q",
                         "title": "Catfish Nuggets",
                         "price": 11.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3025,7 +2861,6 @@
                         "uuid": "o0YJAKw9EeqmutWEYkgV4Q",
                         "title": "Oysters",
                         "price": 12.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3034,7 +2869,6 @@
                         "uuid": "dKd40BrZEeusd3m5-QkEtQ",
                         "title": "Fish and Chips",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3050,7 +2884,6 @@
                         "uuid": "8JhK8BrZEeusd3m5-QkEtQ",
                         "title": "Clam Strips",
                         "price": 16.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3066,7 +2899,6 @@
                         "uuid": "9tL9IBrZEeusd3m5-QkEtQ",
                         "title": "Scallops Plate",
                         "price": 22.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3082,7 +2914,6 @@
                         "uuid": "Cn0rIBraEeusd3m5-QkEtQ",
                         "title": "Shrimp Plate",
                         "price": 22.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3098,7 +2929,6 @@
                         "uuid": "FV7QIBraEeusd3m5-QkEtQ",
                         "title": "Haddock Dinner",
                         "price": 22.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3114,7 +2944,6 @@
                         "uuid": "HhPRIBraEeusd3m5-QkEtQ",
                         "title": "Shrimp Platter",
                         "price": 22.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3130,7 +2959,6 @@
                         "uuid": "Lo1YoBraEeusd3m5-QkEtQ",
                         "title": "Seafood Platter",
                         "price": 30.0,
-                        "category": null,
                         "description": "Fish, shrimp, scallops and clam strips.",
                         "image_url": null,
                         "modifiers": [
@@ -3146,15 +2974,14 @@
             },
             {
                 "uuid": "-HVZAKwsEeqLUIW4JyGhCw",
-                "menu": null,
                 "title": "Combo Dinner",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "rp-hUKw2EeqmutWEYkgV4Q",
                         "title": "Fish and Chicken Combo #1",
                         "price": 12.99,
-                        "category": null,
                         "description": "Served with fries, bread, coleslaw, and pop. Must make 2 different selections.",
                         "image_url": null,
                         "modifiers": [
@@ -3182,7 +3009,6 @@
                         "uuid": "OgHZwKw3EeqoeNsM3iTETA",
                         "title": "Fish and Chicken Combo #2",
                         "price": 15.69,
-                        "category": null,
                         "description": "Served with fries, coleslaw, and bread.",
                         "image_url": null,
                         "modifiers": [
@@ -3204,7 +3030,6 @@
                         "uuid": "as7C4BraEeusd3m5-QkEtQ",
                         "title": "Ribs and 1/2 Chicken",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3213,7 +3038,6 @@
                         "uuid": "e0jmoBraEeusd3m5-QkEtQ",
                         "title": "Steak Tips and 1/2 Chicken",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3222,7 +3046,6 @@
                         "uuid": "hBjpsBraEeusd3m5-QkEtQ",
                         "title": "Pork Chops and 1/2 Chicken",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3231,7 +3054,6 @@
                         "uuid": "jo77oBraEeusd3m5-QkEtQ",
                         "title": "Wings and Chicken Breast",
                         "price": 21.6,
-                        "category": null,
                         "description": "Choose a wing sauce.",
                         "image_url": null,
                         "modifiers": [
@@ -3247,7 +3069,6 @@
                         "uuid": "mxNUIBraEeusd3m5-QkEtQ",
                         "title": "Ribs and Steak Tips",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3256,7 +3077,6 @@
                         "uuid": "qWexsBraEeusd3m5-QkEtQ",
                         "title": "Ribs and Pork Chops",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3265,7 +3085,6 @@
                         "uuid": "sobmMBraEeusd3m5-QkEtQ",
                         "title": "Ribs and Wings",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3281,7 +3100,6 @@
                         "uuid": "vOcmMBraEeusd3m5-QkEtQ",
                         "title": "Ribs and Chicken Breast",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3290,7 +3108,6 @@
                         "uuid": "xCU-oBraEeusd3m5-QkEtQ",
                         "title": "Wings and Steak Tips",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3306,7 +3123,6 @@
                         "uuid": "0loGQBraEeusd3m5-QkEtQ",
                         "title": "Wings and Pork Chops",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3322,7 +3138,6 @@
                         "uuid": "2YUy8BraEeusd3m5-QkEtQ",
                         "title": "Steak Tips and Pork Chops",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3331,7 +3146,6 @@
                         "uuid": "2YVaABraEeusd3m5-QkEtQ",
                         "title": "Pork Chops and Chicken Breast",
                         "price": 21.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3340,15 +3154,14 @@
             },
             {
                 "uuid": "OQGzYKwtEeqOwFcX30F_Vg",
-                "menu": null,
                 "title": "Side Orders",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "_me6wKwwEeqc98vGyR0RVQ",
                         "title": "French Fries",
                         "price": 9.6,
-                        "category": null,
                         "description": "Regular fries with a light coating.",
                         "image_url": null,
                         "modifiers": []
@@ -3357,7 +3170,6 @@
                         "uuid": "pWzOsBocEeuSaDuAJ_00Wg",
                         "title": "Curly Fries",
                         "price": 10.8,
-                        "category": null,
                         "description": "Curly fries with seasoning.",
                         "image_url": null,
                         "modifiers": []
@@ -3366,7 +3178,6 @@
                         "uuid": "02ovEBocEeuSaDuAJ_00Wg",
                         "title": "Sweet Potato Fries",
                         "price": 10.8,
-                        "category": null,
                         "description": "Regular sweet potato fries.",
                         "image_url": null,
                         "modifiers": []
@@ -3375,7 +3186,6 @@
                         "uuid": "7VFZMBocEeuSaDuAJ_00Wg",
                         "title": "Bacon Cheddar Fries",
                         "price": 10.2,
-                        "category": null,
                         "description": "Regular fries topped with bacon and cheddar.",
                         "image_url": null,
                         "modifiers": []
@@ -3384,7 +3194,6 @@
                         "uuid": "FeFpgBodEeuSaDuAJ_00Wg",
                         "title": "Spicy Fries",
                         "price": 10.8,
-                        "category": null,
                         "description": "Fries with a mild spice taste.",
                         "image_url": null,
                         "modifiers": []
@@ -3393,7 +3202,6 @@
                         "uuid": "DRnx8BodEeuSaDuAJ_00Wg",
                         "title": "Cheesy Fries",
                         "price": 9.6,
-                        "category": null,
                         "description": "Regular fries topped with cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -3402,7 +3210,6 @@
                         "uuid": "SFgdABodEeuSaDuAJ_00Wg",
                         "title": "Onion Rings",
                         "price": 10.8,
-                        "category": null,
                         "description": "Regular onions in batter and fried.",
                         "image_url": null,
                         "modifiers": []
@@ -3411,7 +3218,6 @@
                         "uuid": "aNZxMBodEeuSaDuAJ_00Wg",
                         "title": "Mozzarella Sticks",
                         "price": 14.4,
-                        "category": null,
                         "description": "Served with marinara sauce.",
                         "image_url": null,
                         "modifiers": []
@@ -3420,7 +3226,6 @@
                         "uuid": "XaL18KwwEeq4UoF60kxfzA",
                         "title": "Jalapeno Poppers",
                         "price": 9.6,
-                        "category": null,
                         "description": "Served with ranch dressing.",
                         "image_url": null,
                         "modifiers": []
@@ -3429,7 +3234,6 @@
                         "uuid": "0iOYkKwvEeqa4UEIkr7X3A",
                         "title": "Spaghetti",
                         "price": 2.79,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3438,7 +3242,6 @@
                         "uuid": "4107wKwvEeqmutWEYkgV4Q",
                         "title": "Okra",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3447,7 +3250,6 @@
                         "uuid": "6ze7QKwvEeqa4UEIkr7X3A",
                         "title": "Hush Puppies",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3456,7 +3258,6 @@
                         "uuid": "85nhUKwvEeqmutWEYkgV4Q",
                         "title": "Cauliflower",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3465,7 +3266,6 @@
                         "uuid": "CLFa8KwwEeqXwDEngESKWQ",
                         "title": "Zucchini",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3474,7 +3274,6 @@
                         "uuid": "JxADcKwwEeqoeNsM3iTETA",
                         "title": "Mushroom",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3483,7 +3282,6 @@
                         "uuid": "Mt4EQKwwEeqoeNsM3iTETA",
                         "title": "Pizza Pie",
                         "price": 4.19,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -3492,7 +3290,6 @@
                         "uuid": "QnnV8KwwEeq4UoF60kxfzA",
                         "title": "Stuffed Jalapenos",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3501,7 +3298,6 @@
                         "uuid": "cdMc0KwwEeqsVwGaDke6VQ",
                         "title": "Cheese Sticks",
                         "price": 4.99,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -3510,7 +3306,6 @@
                         "uuid": "wKj6IBofEeuxOWdvFQ5NpA",
                         "title": "Garlic Bread",
                         "price": 5.55,
-                        "category": null,
                         "description": "a small French roll drizzzled with garlic sauce with option of adding cheese for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -3526,7 +3321,6 @@
                         "uuid": "I4vrIBogEeuxOWdvFQ5NpA",
                         "title": "Egg Roll",
                         "price": 4.8,
-                        "category": null,
                         "description": "You can select from pizza, steak and cheese as well spinach and feta.",
                         "image_url": null,
                         "modifiers": [
@@ -3542,7 +3336,6 @@
                         "uuid": "fcI_kBogEeuxOWdvFQ5NpA",
                         "title": "Jamaican Beef Patty",
                         "price": 4.8,
-                        "category": null,
                         "description": "An Island patty stuffed with beef and mild spices with option of adding cheese for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -3558,7 +3351,6 @@
                         "uuid": "qkgbIBogEeuxOWdvFQ5NpA",
                         "title": "Wing Dings",
                         "price": 14.4,
-                        "category": null,
                         "description": "A pre-battered wingette fried and served with side sauces.",
                         "image_url": null,
                         "modifiers": []
@@ -3567,7 +3359,6 @@
                         "uuid": "2pWGABogEeuxOWdvFQ5NpA",
                         "title": "Chicken Nuggets",
                         "price": 18.0,
-                        "category": null,
                         "description": "Fried nugget served with dipping sauces.",
                         "image_url": null,
                         "modifiers": []
@@ -3576,7 +3367,6 @@
                         "uuid": "FDliABohEeuxOWdvFQ5NpA",
                         "title": "Potato Skins",
                         "price": 10.8,
-                        "category": null,
                         "description": "Topped with bacon, cheddar cheese and sour cream.",
                         "image_url": null,
                         "modifiers": []
@@ -3585,7 +3375,6 @@
                         "uuid": "JcYuQBohEeuxOWdvFQ5NpA",
                         "title": "Fried Pickles",
                         "price": 9.6,
-                        "category": null,
                         "description": "A dells pickle battered and fried.",
                         "image_url": null,
                         "modifiers": []
@@ -3594,7 +3383,6 @@
                         "uuid": "qbPsEKwwEeqmutWEYkgV4Q",
                         "title": "Coleslaw",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3603,7 +3391,6 @@
                         "uuid": "pfjIwKxEEeqjnM376MDxGg",
                         "title": "Gyro Melt",
                         "price": 2.99,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -3612,7 +3399,6 @@
                         "uuid": "PlQxABohEeuxOWdvFQ5NpA",
                         "title": "Yams",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3621,7 +3407,6 @@
                         "uuid": "RVJaQBohEeuxOWdvFQ5NpA",
                         "title": "Corn",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3630,7 +3415,6 @@
                         "uuid": "p5PbIBohEeuxOWdvFQ5NpA",
                         "title": "Rice Pilaf",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3639,7 +3423,6 @@
                         "uuid": "sCSLQBohEeuxOWdvFQ5NpA",
                         "title": "Mashed Potatos",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3648,7 +3431,6 @@
                         "uuid": "uLsu0BohEeuxOWdvFQ5NpA",
                         "title": "Collard Greens",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3657,7 +3439,6 @@
                         "uuid": "zlnZ0BohEeuxOWdvFQ5NpA",
                         "title": "Buffalo Bites",
                         "price": 9.6,
-                        "category": null,
                         "description": "A crispy Buffalo chicken ball stuffed with cheese and served with blue cheese.",
                         "image_url": null,
                         "modifiers": []
@@ -3666,7 +3447,6 @@
                         "uuid": "-yUi0BohEeuxOWdvFQ5NpA",
                         "title": "Mac and Cheese Bites",
                         "price": 8.4,
-                        "category": null,
                         "description": "Mac and cheese battered and fried.",
                         "image_url": null,
                         "modifiers": []
@@ -3675,7 +3455,6 @@
                         "uuid": "FLtGwBoiEeuxOWdvFQ5NpA",
                         "title": "Side Salad",
                         "price": 6.0,
-                        "category": null,
                         "description": "A garden salad served with a dressing, can add feta cheese for an additional charge.",
                         "image_url": null,
                         "modifiers": [
@@ -3697,15 +3476,14 @@
             },
             {
                 "uuid": "F2_zYKwtEeqeJ6dkDz61jQ",
-                "menu": null,
                 "title": "Kids Menu",
+                "subtitle": null,
                 "description": "Served with fries and pop.",
                 "items": [
                     {
                         "uuid": "OAjFsKwzEeqc98vGyR0RVQ",
                         "title": "Kids 6 Chicken Nuggets",
                         "price": 4.59,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3721,7 +3499,6 @@
                         "uuid": "aGYPEKwzEeqJ61O37k1iGw",
                         "title": "Kids 2 Wings",
                         "price": 4.59,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3737,7 +3514,6 @@
                         "uuid": "qQZY0BrPEeusd3m5-QkEtQ",
                         "title": "Kids Chicken Fingers and Fries ",
                         "price": 9.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3746,7 +3522,6 @@
                         "uuid": "3vQxsBrPEeusd3m5-QkEtQ",
                         "title": "Kids Slider and Fries",
                         "price": 9.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3755,7 +3530,6 @@
                         "uuid": "-ThI4BrPEeusd3m5-QkEtQ",
                         "title": "Kids Mac and Cheese",
                         "price": 8.4,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3764,7 +3538,6 @@
                         "uuid": "CVxdYBrQEeusd3m5-QkEtQ",
                         "title": "Kids Mozzarella Sticks with Fries",
                         "price": 9.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3773,7 +3546,6 @@
                         "uuid": "G5YLcBrQEeusd3m5-QkEtQ",
                         "title": "Kids Grilled Cheese with Fries",
                         "price": 9.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3782,7 +3554,6 @@
                         "uuid": "KPEU4BrQEeusd3m5-QkEtQ",
                         "title": "Kids Pasta ",
                         "price": 8.4,
-                        "category": null,
                         "description": "Choice: ziti or linguini.",
                         "image_url": null,
                         "modifiers": [
@@ -3798,15 +3569,14 @@
             },
             {
                 "uuid": "RY2F8KwtEeqKyFmshvb4Ew",
-                "menu": null,
                 "title": "Desserts",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "H_RqQBrVEeusd3m5-QkEtQ",
                         "title": "Carrot Cake",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3815,7 +3585,6 @@
                         "uuid": "c-vyEKwtEeqXwDEngESKWQ",
                         "title": "Cheesecake",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3824,7 +3593,6 @@
                         "uuid": "gKofQKwtEeqXwDEngESKWQ",
                         "title": "Peach Cobbler",
                         "price": 3.59,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3833,7 +3601,6 @@
                         "uuid": "oJucwKwtEeqa4UEIkr7X3A",
                         "title": "Banana Mana Pudding",
                         "price": 3.69,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3842,7 +3609,6 @@
                         "uuid": "CX-5YKwuEeqoeNsM3iTETA",
                         "title": "Cake",
                         "price": 3.69,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3858,7 +3624,6 @@
                         "uuid": "Ev5L8KwuEeqXwDEngESKWQ",
                         "title": "Parfaits",
                         "price": 3.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3867,7 +3632,6 @@
                         "uuid": "HHy3cKwuEeqmutWEYkgV4Q",
                         "title": "Taffy Grapes",
                         "price": 5.79,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3876,7 +3640,6 @@
                         "uuid": "M3fWYBrVEeusd3m5-QkEtQ",
                         "title": "Chocolate Cake",
                         "price": 6.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3885,7 +3648,6 @@
                         "uuid": "Q2BogBrVEeusd3m5-QkEtQ",
                         "title": "Fried Cheesecake",
                         "price": 4.8,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3894,15 +3656,14 @@
             },
             {
                 "uuid": "PrHY0KwtEeq8CGVXV4NivQ",
-                "menu": null,
                 "title": "Beverages ",
+                "subtitle": null,
                 "description": "20 oz.",
                 "items": [
                     {
                         "uuid": "i5UdoKwuEeqmutWEYkgV4Q",
                         "title": "Mistic",
                         "price": 2.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3918,7 +3679,6 @@
                         "uuid": "320yUKwuEeq4UoF60kxfzA",
                         "title": "Can Pop",
                         "price": 1.09,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3934,7 +3694,6 @@
                         "uuid": "PKzPIKwvEeqc98vGyR0RVQ",
                         "title": "20 oz. Pop",
                         "price": 2.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3950,7 +3709,6 @@
                         "uuid": "tl9KAKwvEeqc98vGyR0RVQ",
                         "title": "1 Liter Pop",
                         "price": 2.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -3966,7 +3724,6 @@
                         "uuid": "aD-vAB0IEeubpEUbAkbUhA",
                         "title": "Coke",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3975,7 +3732,6 @@
                         "uuid": "b5UgAB0IEeubpEUbAkbUhA",
                         "title": "Diet Coke ",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3984,7 +3740,6 @@
                         "uuid": "c_vVgB0IEeubpEUbAkbUhA",
                         "title": "Ginger Ale",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -3993,7 +3748,6 @@
                         "uuid": "hWJVEB0IEeubpEUbAkbUhA",
                         "title": "Spirit",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4002,7 +3756,6 @@
                         "uuid": "i5jokB0IEeubpEUbAkbUhA",
                         "title": "Root Beer",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4011,7 +3764,6 @@
                         "uuid": "mHingB0IEeubpEUbAkbUhA",
                         "title": "Orange",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4020,7 +3772,6 @@
                         "uuid": "nvdAgB0IEeubpEUbAkbUhA",
                         "title": "Ice Tea",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4029,7 +3780,6 @@
                         "uuid": "psbDgB0IEeubpEUbAkbUhA",
                         "title": "Lemonade",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4038,7 +3788,6 @@
                         "uuid": "sYuRsB0IEeubpEUbAkbUhA",
                         "title": "Water",
                         "price": 3.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4047,15 +3796,14 @@
             },
             {
                 "uuid": "87ZxYKwsEeq1Vzv-OF25-Q",
-                "menu": null,
                 "title": "Mains (Archived)",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "SSzoQKw3EeqoeNsM3iTETA",
                         "title": "25 Wings with Fries",
                         "price": 32.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4064,7 +3812,6 @@
                         "uuid": "VHn5QKw3Eeq4UoF60kxfzA",
                         "title": "8 Wings with Fries",
                         "price": 12.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4073,7 +3820,6 @@
                         "uuid": "dsCxYKw3EeqJ61O37k1iGw",
                         "title": "5 Pieces of Fish and 10 Wings with Fries",
                         "price": 28.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4089,7 +3835,6 @@
                         "uuid": "JTHT8Kw4Eeqa4UEIkr7X3A",
                         "title": "Special",
                         "price": 8.59,
-                        "category": null,
                         "description": "Served with fries and pop.",
                         "image_url": null,
                         "modifiers": [
@@ -4111,7 +3856,6 @@
                         "uuid": "X5a2AKw4EeqsVwGaDke6VQ",
                         "title": "Catfish Nuggets",
                         "price": 10.49,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4120,7 +3864,6 @@
                         "uuid": "lmRnkKw4EeqRi731z471Iw",
                         "title": "3 Piece Fish with Fries",
                         "price": 10.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4136,7 +3879,6 @@
                         "uuid": "pSQxIKw4EeqmutWEYkgV4Q",
                         "title": "6 Pieces Fish with Fries",
                         "price": 18.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4152,15 +3894,14 @@
             },
             {
                 "uuid": "Db3NsKwtEeqtJ12PMYedrA",
-                "menu": null,
                 "title": "Family Specials (Archived)",
+                "subtitle": null,
                 "description": "Served with fries.",
                 "items": [
                     {
                         "uuid": "gUQRIKw0EeqsVwGaDke6VQ",
                         "title": "10 Piece Fish and 10 Wings",
                         "price": 42.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4176,7 +3917,6 @@
                         "uuid": "sOLFcKw0EeqJ61O37k1iGw",
                         "title": "10 Piece Fish and 20 Wings",
                         "price": 53.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4192,7 +3932,6 @@
                         "uuid": "yqQYEKw0EeqmutWEYkgV4Q",
                         "title": "10 Piece Fish and 30 Wings",
                         "price": 64.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4208,7 +3947,6 @@
                         "uuid": "3wU6AKw0Eeqa4UEIkr7X3A",
                         "title": "20 Piece Fish and 20 Wings",
                         "price": 76.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4224,7 +3962,6 @@
                         "uuid": "9G9AcKw0Eeqc98vGyR0RVQ",
                         "title": "20 Piece Fish and 50 Wings",
                         "price": 99.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4240,15 +3977,14 @@
             },
             {
                 "uuid": "_0T4MKwsEeqoqE8IekZ6HQ",
-                "menu": null,
                 "title": "Chicken Mix Specials (Archived)",
+                "subtitle": null,
                 "description": "Legs, thighs, and wings.",
                 "items": [
                     {
                         "uuid": "O6LxgKw1EeqJ61O37k1iGw",
                         "title": "10 Piece Chicken Mix Special",
                         "price": 12.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4257,7 +3993,6 @@
                         "uuid": "UIDkkKw1Eeqa4UEIkr7X3A",
                         "title": "20 Piece Chicken Mix Special",
                         "price": 24.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4266,7 +4001,6 @@
                         "uuid": "X6OOoKw1EeqmutWEYkgV4Q",
                         "title": "50 Piece Chicken Mix Special",
                         "price": 54.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4275,15 +4009,14 @@
             },
             {
                 "uuid": "Eos0QKwtEeqSbk-YbQ5-vQ",
-                "menu": null,
                 "title": "Fish for the Family (Archived)",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "rqlFoKwzEeqoeNsM3iTETA",
                         "title": "10 Piece Fish",
                         "price": 31.99,
-                        "category": null,
                         "description": "Catfish, catfish fillet, or tilapia.",
                         "image_url": null,
                         "modifiers": [
@@ -4299,7 +4032,6 @@
                         "uuid": "v8SycKwzEeqoeNsM3iTETA",
                         "title": "10 Piece Perch",
                         "price": 28.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4308,7 +4040,6 @@
                         "uuid": "yxkWcKwzEeqa4UEIkr7X3A",
                         "title": "12 Piece Catfish",
                         "price": 32.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4317,7 +4048,6 @@
                         "uuid": "1qE0oKwzEeqc98vGyR0RVQ",
                         "title": "21 Piece All Catfish",
                         "price": 55.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4326,7 +4056,6 @@
                         "uuid": "6ZyFAKwzEeq4UoF60kxfzA",
                         "title": "12 Piece Ocean Perch",
                         "price": 28.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4335,7 +4064,6 @@
                         "uuid": "_NMJoawzEeqa4UEIkr7X3A",
                         "title": "21 Piece Ocean Perch",
                         "price": 51.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4344,7 +4072,6 @@
                         "uuid": "DKVUoKw0EeqRi731z471Iw",
                         "title": "12 Piece Mixed Fish",
                         "price": 28.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4353,7 +4080,6 @@
                         "uuid": "QlzbQKw0EeqXwDEngESKWQ",
                         "title": "21 Piece Mixed Fish",
                         "price": 51.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4362,7 +4088,6 @@
                         "uuid": "W1XU0Kw0Eeq4UoF60kxfzA",
                         "title": "50 Piece Catfish",
                         "price": 109.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4371,7 +4096,6 @@
                         "uuid": "dGxogKw0EeqsVwGaDke6VQ",
                         "title": "50 Piece Ocean Perch",
                         "price": 103.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4380,15 +4104,14 @@
             },
             {
                 "uuid": "HUu8sKwtEeqRGJ8EprVfJA",
-                "menu": null,
                 "title": "Chicken Wings ",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "dwYREKwyEeqa4UEIkr7X3A",
                         "title": "8 Wings",
                         "price": 14.99,
-                        "category": null,
                         "description": "Served with two options of your choice",
                         "image_url": null,
                         "modifiers": []
@@ -4397,7 +4120,6 @@
                         "uuid": "hHRUYKwyEeqJ61O37k1iGw",
                         "title": "20 Wings",
                         "price": 28.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4406,7 +4128,6 @@
                         "uuid": "kPXGsKwyEeqoeNsM3iTETA",
                         "title": "30 Wings",
                         "price": 39.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4415,7 +4136,6 @@
                         "uuid": "naSxoKwyEeqa4UEIkr7X3A",
                         "title": "40 Wings",
                         "price": 48.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4424,7 +4144,6 @@
                         "uuid": "soCB0KwyEeqRi731z471Iw",
                         "title": "50 Wings",
                         "price": 75.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4433,7 +4152,6 @@
                         "uuid": "wPuhQKwyEeqc98vGyR0RVQ",
                         "title": "75 Wings",
                         "price": 115.0,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4442,15 +4160,14 @@
             },
             {
                 "uuid": "A8ZEIaw5Eeq0kxF4PTXp8A",
-                "menu": null,
                 "title": "Dinner Side Orders (Archived)",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "m7w-YKw5EeqXwDEngESKWQ",
                         "title": "Spaghetti",
                         "price": 2.79,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4459,7 +4176,6 @@
                         "uuid": "p2Tc4Kw5EeqsVwGaDke6VQ",
                         "title": "Okra",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4468,7 +4184,6 @@
                         "uuid": "sdwAQKw5EeqRi731z471Iw",
                         "title": "Hush Puppies",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4477,7 +4192,6 @@
                         "uuid": "v0D0wKw5EeqsVwGaDke6VQ",
                         "title": "Cauliflower",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4486,7 +4200,6 @@
                         "uuid": "zlT40Kw5EeqRi731z471Iw",
                         "title": "Onion Rings",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4495,7 +4208,6 @@
                         "uuid": "2tt0MKw5Eeq4UoF60kxfzA",
                         "title": "Zucchini",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4504,7 +4216,6 @@
                         "uuid": "5Cbo0Kw5EeqoeNsM3iTETA",
                         "title": "Mushroom",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4513,7 +4224,6 @@
                         "uuid": "-cuHQKw5EeqmutWEYkgV4Q",
                         "title": "Pizza Pie",
                         "price": 4.19,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -4522,7 +4232,6 @@
                         "uuid": "BD-dYKw6EeqsVwGaDke6VQ",
                         "title": "Stuffed Jalapenos",
                         "price": 4.19,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4531,7 +4240,6 @@
                         "uuid": "FGnMYKw6EeqmutWEYkgV4Q",
                         "title": "Gyro Melt",
                         "price": 2.99,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -4540,7 +4248,6 @@
                         "uuid": "HlUqgKw6EeqoeNsM3iTETA",
                         "title": "Jalapenos",
                         "price": 0.49,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4549,7 +4256,6 @@
                         "uuid": "LBM7gKw6EeqoeNsM3iTETA",
                         "title": "Cheese Sticks",
                         "price": 4.99,
-                        "category": null,
                         "description": "Served with fries.",
                         "image_url": null,
                         "modifiers": []
@@ -4558,7 +4264,6 @@
                         "uuid": "S0DMwKw6EeqoeNsM3iTETA",
                         "title": "Coleslaw",
                         "price": 2.69,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4567,7 +4272,6 @@
                         "uuid": "WpemMKw6EeqRi731z471Iw",
                         "title": "French Fries",
                         "price": 9.6,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": []
@@ -4576,15 +4280,14 @@
             },
             {
                 "uuid": "MjMloKwtEeqjGHmAZIM8JA",
-                "menu": null,
                 "title": "Boneless Chicken (Archived)",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "QKmNUKwxEeqoeNsM3iTETA",
                         "title": "6 Piece Boneless Chicken",
                         "price": 6.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4600,7 +4303,6 @@
                         "uuid": "U7hlsKwxEeqJ61O37k1iGw",
                         "title": "9 Piece Boneless Chicken",
                         "price": 9.29,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4616,7 +4318,6 @@
                         "uuid": "dEMV8KwxEeqXwDEngESKWQ",
                         "title": "12 Piece Boneless Chicken",
                         "price": 10.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4632,7 +4333,6 @@
                         "uuid": "jTph0KwxEeqJ61O37k1iGw",
                         "title": "20 Piece Boneless Chicken",
                         "price": 15.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4648,15 +4348,14 @@
             },
             {
                 "uuid": "KGWvwKwtEeqVkm-7J8M60A",
-                "menu": null,
                 "title": "Honey BBQ and Buffalo 1/2 Wings (Archived)",
+                "subtitle": null,
                 "description": "",
                 "items": [
                     {
                         "uuid": "5t128KwxEeqmutWEYkgV4Q",
                         "title": "6 Piece Party 1/2 Wings",
                         "price": 6.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4672,7 +4371,6 @@
                         "uuid": "-z8OEKwxEeqRi731z471Iw",
                         "title": "9 Piece party 1/2 Wings",
                         "price": 9.29,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4688,7 +4386,6 @@
                         "uuid": "CVIc4KwyEeqsVwGaDke6VQ",
                         "title": "12 Piece Party 1/2 Wings",
                         "price": 10.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4704,7 +4401,6 @@
                         "uuid": "ImwL8KwyEeqJ61O37k1iGw",
                         "title": "20 Piece party 1/2 Wings",
                         "price": 15.99,
-                        "category": null,
                         "description": "",
                         "image_url": null,
                         "modifiers": [
@@ -4720,8 +4416,8 @@
             },
             {
                 "uuid": "SpIl4BrKEeusd3m5-QkEtQ",
-                "menu": null,
                 "title": "",
+                "subtitle": null,
                 "description": "",
                 "items": []
             }

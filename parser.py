@@ -30,10 +30,8 @@ for item in response["items"]:
         new_item["price"] = item["price"]
     elif "price_variations" in item:
         new_item["price"] = item["price_variations"]["maximum_price"]
-    new_item["category"] = None
     new_item["description"] = item["description"]
     new_item["image_url"] = None
-    new_item["category"] = None
     new_item["modifiers"] = []
     for modifier in item["modifier_prompts"]:
         new_item["modifiers"].append(menu["modifiers"][modifier])
@@ -48,8 +46,8 @@ for category in response["menu_sections"]:
     category = category["latest_version"]
     new_category = {}
     new_category["uuid"] = category["uuid"]
-    new_category["menu"] = None
     new_category["title"] = category["name"]
+    new_category["subtitle"] = None
     new_category["description"] = category["description"]
     new_category["items"] = []
     for item_uuid in category["items"]:
