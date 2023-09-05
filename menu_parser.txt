@@ -1,0 +1,25 @@
+import json
+
+with open("grubhub-menu.json", "r") as menu:
+    menu = json.load(menu)
+
+menu = {}
+
+items = []
+for item in menu["items"]:
+    item = item["latest_version"]
+    new_item = {}
+
+    new_item["title"] = item["name"]
+    if "price" in item:
+        new_item["price"] = item["price"]
+    elif "price_variations" in item:
+        new_item["price"] = item["price_variations"]["maximum_price"]
+    new_item["description"] = item["description"]
+    new_item["image_url"] = None
+    new_item["category"] = None
+    items.append(new_item)
+
+menu["items"] = items
+
+modifier = []
