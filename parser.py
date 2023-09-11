@@ -24,7 +24,6 @@ items = {}
 for item in response["items"]:
     item = item["latest_version"]
     new_item = {}
-    new_item["uuid"] = item["uuid"]
     new_item["title"] = item["name"]
     if "price" in item:
         new_item["price"] = item["price"]
@@ -45,7 +44,6 @@ categories = {}
 for category in response["menu_sections"]:
     category = category["latest_version"]
     new_category = {}
-    new_category["uuid"] = category["uuid"]
     new_category["title"] = category["name"]
     new_category["subtitle"] = None
     new_category["description"] = category["description"]
@@ -62,7 +60,7 @@ for category in response["menu_sections"]:
 menu["categories"] = categories
 
 #menu
-menu["menu"] = {"title":"title", "type":None}
+menu["menu"] = { "title":"title", "type": None,  }
 menu["menu"]["categories"] = []
 for section in response["menu_info"]["latest_version"]["sections"]:
     menu["menu"]["categories"].append(menu["categories"][section])
@@ -70,6 +68,7 @@ for section in response["menu_info"]["latest_version"]["sections"]:
 
 del menu["items"]
 del menu["categories"]
+del menu["modifiers"]
 
 with open("formatted_menu.json","w") as file:
     json.dump(menu, file, indent=4)
