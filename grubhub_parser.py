@@ -1,5 +1,4 @@
 import json
-import requests
 
 with open("grubhub_menu.json", "r") as menu:
     data = json.load(menu)
@@ -72,4 +71,7 @@ del menu["modifiers"]
 
 with open("formatted_menu.json","w") as file:
     json.dump(menu, file, indent=4)
-    
+
+
+
+
