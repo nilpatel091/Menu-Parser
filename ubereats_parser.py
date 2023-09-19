@@ -41,7 +41,7 @@ for uuid, item_data in items_data["itemsMap"].items():
     else:
         menu["items"][uuid]["image_url"] = None
     
-    if "customizationUUIDs" in item_data["itemInfo"]:
+    if "customizationUUIDs" in item_data:
         for modifier_uuid in item_data["customizationUUIDs"]["defaultValue"]:
             menu["items"][uuid]["modifiers"].append(menu["modifiers"][modifier_uuid])
 
