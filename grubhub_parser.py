@@ -74,6 +74,8 @@ for item in grubhub_menu["items"]:
             new_modifier["description"] = None
             new_modifier["image_url"] = None
             new_modifer_category["modifiers"].append(new_modifier)
+            new_modifier["sub_modifier_categories"] = []
+
         new_item["modifier_categories"].append(new_modifer_category)
 
     items[item["uuid"]] = new_item
