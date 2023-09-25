@@ -2,9 +2,24 @@ import json
 
 with open("grubhub_menu.json", "r") as menu:
     data = json.load(menu)
-    
+
+with open("grubhub_content.json","r") as menu:    
+    content_data = json.load(menu)
+
+
+
+
 grubhub_menu = data
 menu = dict()
+
+menu["images"] = {}
+
+for content in content_data["contents"]:
+    if content["entity_type"] == "menu_item":
+        menu["images"][content["entity_uuid"]] = {}
+        menu["images"][content["entity_uuid"]]["image_url"] = content["secure_url"]
+print(menu["images"])
+
 # modifiers
 menu["modifiers"] = {}
 for modifier in grubhub_menu["modifiers"]:
@@ -47,16 +62,20 @@ for item in grubhub_menu["items"]:
     item = item["latest_version"]
     new_item = dict()
     new_item["title"] = item["name"]
+    new_item["is_archived"] = False
     if "price" in item:
         new_item["price"] = item["price"]
     elif "price_variations" in item:
         new_item["price"] = item["price_variations"]["minimum_price"]
     new_item["description"] = item["description"]
-    new_item["image_url"] = None
+    if item["uuid"] in menu["images"]:        
+        new_item["image_url"] = menu["images"][item["uuid"]]["image_url"]
+    else:
+        new_item["image_url"] = None
     new_item["modifier_categories"] = []
     for modifier_category_uuid in item["modifier_prompts"]:
         new_item["modifier_categories"].append(menu["modifier_categories"][modifier_category_uuid])
-    # add modifier_category in itme for size vice price.
+    # add modifier_category in item for size vice price.
     if "size_prompt" in item:
         new_modifier_category = dict()
         new_modifier_category["title"] = menu["size_prompts"][item["size_prompt"]]["latest_version"]["name"]
@@ -76,6 +95,9 @@ for item in grubhub_menu["items"]:
         new_item["modifier_categories"].append(new_modifier_category)
     items[item["uuid"]] = new_item
 menu["items"] = items
+
+for item_schedule in grubhub_menu["schedule_overrides"]["item_overrides"]: 
+    menu["items"][item_schedule["item_id"]]["is_archived"] = True 
 
 # categories
 categories = {}

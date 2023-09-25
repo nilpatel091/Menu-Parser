@@ -1,0 +1,1172 @@
+{
+    "contents": [
+        {
+            "restaurant_id": "259806",
+            "asset_id": "7f53f4b6-96c7-45aa-aa78-7085c03b57c1",
+            "entity_id": "259806",
+            "source": "logo.png",
+            "public_id": "hwrr4rfe84h7gllebw75",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1599742983/hwrr4rfe84h7gllebw75.png",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1599742983/hwrr4rfe84h7gllebw75.png",
+            "format": "png",
+            "provider": "catalogedit",
+            "asset_type": "image",
+            "tags": [
+                "primary_logo"
+            ],
+            "height": 135,
+            "width": 197,
+            "entity_type": "restaurant",
+            "main_tag": "logo",
+            "image_displayed_on": [
+                "LOGO_HOME_PAGE",
+                "MENU_PAGE"
+            ],
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "STATUS_CHANGED_REASON": {},
+                "STATUS_CHANGED_BY": {},
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "846fd85f-a147-47b4-a640-3810183b8dcc",
+            "entity_id": "259806",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "primary_search"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "restaurant",
+            "main_tag": "search",
+            "image_displayed_on": [
+                "SEARCH_HOME_PAGE",
+                "SEARCH_RESULTS_PAGE"
+            ],
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "dd504225-c5f5-4bf1-87ea-bee137e49ddb",
+            "entity_id": "259806",
+            "source": "JJFishandChicken_Hero.jpg",
+            "public_id": "mgd2jjttmhadiihxxmv3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067837/mgd2jjttmhadiihxxmv3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067837/mgd2jjttmhadiihxxmv3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "primary_header"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "restaurant",
+            "main_tag": "header_background",
+            "image_displayed_on": [
+                "HEADER_BACKGROUND"
+            ],
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "ada8b731-858e-4977-af56-a37a788504cf",
+            "entity_id": "3380390829",
+            "item_id": "YcZ1AKw9EeqmutWEYkgV4Q",
+            "source": "JJFishandChicken_Catfish.jpg",
+            "public_id": "e8c0rxli82en5d5p7ql3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "YcZ1AKw9EeqmutWEYkgV4Q",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "9002a47e-ca23-42b6-bbb9-66b19f453ccc",
+            "entity_id": "3453384755",
+            "item_id": "aD-vAB0IEeubpEUbAkbUhA",
+            "source": "https://gh-prod-enterprise-catalog.s3.amazonaws.com/Coke+Brands/official_coca_cola_logo_20201001.jpg",
+            "public_id": "kcid0x7hniljxvspt1mr",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1601576128/kcid0x7hniljxvspt1mr.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1601576128/kcid0x7hniljxvspt1mr.jpg",
+            "format": "jpg",
+            "provider": "bulk",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 3000,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "aD-vAB0IEeubpEUbAkbUhA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "STATUS_CHANGED_REASON": {},
+                "STATUS_CHANGED_BY": {},
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "784c3e2b-bb50-4881-b38b-b656a00079f4",
+            "entity_id": "3380390956",
+            "item_id": "kPXGsKwyEeqoeNsM3iTETA",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "kPXGsKwyEeqoeNsM3iTETA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "2ece7fe1-3ba7-4927-a9c0-bccee5979637",
+            "entity_id": "3380390943",
+            "item_id": "hHRUYKwyEeqJ61O37k1iGw",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "hHRUYKwyEeqJ61O37k1iGw",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "09a1d69a-e216-4434-b943-61ea6731bf6d",
+            "entity_id": "3380390825",
+            "item_id": "dwYREKwyEeqa4UEIkr7X3A",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "dwYREKwyEeqa4UEIkr7X3A",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "82fd9b2f-b68b-46db-9731-0d3bf95d1924",
+            "entity_id": "3380390957",
+            "item_id": "yxkWcKwzEeqa4UEIkr7X3A",
+            "source": "JJFishandChicken_Catfish.jpg",
+            "public_id": "e8c0rxli82en5d5p7ql3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "yxkWcKwzEeqa4UEIkr7X3A",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "1d101ee6-2231-42f3-80be-89e1cafe1507",
+            "entity_id": "3380390786",
+            "item_id": "W1XU0Kw0Eeq4UoF60kxfzA",
+            "source": "JJFishandChicken_Catfish.jpg",
+            "public_id": "e8c0rxli82en5d5p7ql3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "W1XU0Kw0Eeq4UoF60kxfzA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "a9227d63-1391-42c8-a4cc-39b441b75d29",
+            "entity_id": "3380390865",
+            "item_id": "RQPxUKwyEeqoeNsM3iTETA",
+            "source": "JJFishandChicken_Buffalo_Wings.jpg",
+            "public_id": "aurw4qkasykr7at6gbv0",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "RQPxUKwyEeqoeNsM3iTETA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "d1c390ee-6925-4161-8599-24bf27650da5",
+            "entity_id": "3380390997",
+            "item_id": "wPuhQKwyEeqc98vGyR0RVQ",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "wPuhQKwyEeqc98vGyR0RVQ",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "fb1802e0-9db5-43f4-8f08-d3cf6aadb308",
+            "entity_id": "3380390918",
+            "item_id": "soCB0KwyEeqRi731z471Iw",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "soCB0KwyEeqRi731z471Iw",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "9efed2c9-de99-41fb-9029-0ec55756daca",
+            "entity_id": "3380390848",
+            "item_id": "VHn5QKw3Eeq4UoF60kxfzA",
+            "source": "JJFishandChicken_Buffalo_Wings.jpg",
+            "public_id": "aurw4qkasykr7at6gbv0",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "VHn5QKw3Eeq4UoF60kxfzA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "6b7915c3-d48e-4f16-9000-5fe53c4f6893",
+            "entity_id": "3380390991",
+            "item_id": "fG_6MKw8Eeqc98vGyR0RVQ",
+            "source": "JJFishandChicken_Jumbo_Shrimp.jpg",
+            "public_id": "oydqzmbsfkwbplai88bw",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593068038/oydqzmbsfkwbplai88bw.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593068038/oydqzmbsfkwbplai88bw.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "fG_6MKw8Eeqc98vGyR0RVQ",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "7fac6378-34ef-4311-a9c2-ed269377bc04",
+            "entity_id": "3380390948",
+            "item_id": "9jD0AKw8EeqXwDEngESKWQ",
+            "source": "JJFishandChicken_Catfish_Fillet.jpg",
+            "public_id": "ohv4umh2tyzaet7hss39",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067950/ohv4umh2tyzaet7hss39.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067950/ohv4umh2tyzaet7hss39.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "9jD0AKw8EeqXwDEngESKWQ",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "5623d3ee-704a-421d-8484-c9ba836197a8",
+            "entity_id": "3380390883",
+            "item_id": "Zr5H8KwyEeqc98vGyR0RVQ",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "Zr5H8KwyEeqc98vGyR0RVQ",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "64ecafd0-ed7d-4a1d-b610-dc795bfc5134",
+            "entity_id": "3453384752",
+            "item_id": "b5UgAB0IEeubpEUbAkbUhA",
+            "source": "https://gh-prod-enterprise-catalog.s3.amazonaws.com/Coke+Brands/official_diet_coke_logo_20201022.jpg",
+            "public_id": "eufqsvxi5izinwe50wcz",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1603464163/eufqsvxi5izinwe50wcz.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1603464163/eufqsvxi5izinwe50wcz.jpg",
+            "format": "jpg",
+            "provider": "bulk",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 3000,
+            "width": 3001,
+            "entity_type": "menu_item",
+            "entity_uuid": "b5UgAB0IEeubpEUbAkbUhA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "STATUS_CHANGED_REASON": {},
+                "STATUS_CHANGED_BY": {},
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "e5b5f012-7eb1-4bcc-87aa-727416a2894c",
+            "entity_id": "3380390875",
+            "item_id": "e_JbMKw7Eeqc98vGyR0RVQ",
+            "source": "JJFishandChicken_Catfish.jpg",
+            "public_id": "e8c0rxli82en5d5p7ql3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "e_JbMKw7Eeqc98vGyR0RVQ",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "d694a3b9-f60c-416f-9dab-f09c69df998b",
+            "entity_id": "3380390815",
+            "item_id": "OVrdoKwyEeqmutWEYkgV4Q",
+            "source": "JJFishandChicken_Buffalo_Wings.jpg",
+            "public_id": "aurw4qkasykr7at6gbv0",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "OVrdoKwyEeqmutWEYkgV4Q",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "bbfe1129-474f-4a58-a3b8-ade2f3a9df89",
+            "entity_id": "3380390817",
+            "item_id": "X5a2AKw4EeqsVwGaDke6VQ",
+            "source": "JJFishandChicken_Catfish.jpg",
+            "public_id": "e8c0rxli82en5d5p7ql3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "X5a2AKw4EeqsVwGaDke6VQ",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "2565057a-270d-43c0-8cae-59f84eca1964",
+            "entity_id": "3380390853",
+            "item_id": "1qE0oKwzEeqc98vGyR0RVQ",
+            "source": "JJFishandChicken_Catfish.jpg",
+            "public_id": "e8c0rxli82en5d5p7ql3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "1qE0oKwzEeqc98vGyR0RVQ",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "fab56d97-4353-4a9b-bb83-ba4cfd1b7c31",
+            "entity_id": "3380390913",
+            "item_id": "SSzoQKw3EeqoeNsM3iTETA",
+            "source": "JJFishandChicken_Buffalo_Wings.jpg",
+            "public_id": "aurw4qkasykr7at6gbv0",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "SSzoQKw3EeqoeNsM3iTETA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "1b399cb6-a48e-44ad-9b1a-9c38758f3ebd",
+            "entity_id": "3380390984",
+            "item_id": "naSxoKwyEeqa4UEIkr7X3A",
+            "source": "JJFishandChicken_Chicken_Wings.jpg",
+            "public_id": "i0ykartni4eac3uglcic",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "naSxoKwyEeqa4UEIkr7X3A",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "VALIDATION_FOOD": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_REASON": {},
+                "VALIDATION_SIZE_RESOLUTION": {
+                    "result": "PASS"
+                },
+                "VALIDATION_COPYRIGHT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_WATERMARK": {
+                    "result": "PASS"
+                },
+                "VALIDATION_TEXT": {
+                    "result": "PASS"
+                },
+                "VALIDATION_SAFE_SEARCH": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_BY": {},
+                "VALIDATION_PHONE_NUMBER": {
+                    "result": "PASS"
+                },
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        },
+        {
+            "restaurant_id": "259806",
+            "asset_id": "fdf5fbe8-cf4f-416c-8775-edd2b7870258",
+            "entity_id": "3380390811",
+            "item_id": "rqlFoKwzEeqoeNsM3iTETA",
+            "source": "JJFishandChicken_Catfish.jpg",
+            "public_id": "e8c0rxli82en5d5p7ql3",
+            "secure_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "url": "http://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
+            "format": "jpg",
+            "provider": "catalog",
+            "asset_type": "image",
+            "tags": [
+                "food",
+                "primary"
+            ],
+            "height": 2251,
+            "width": 3000,
+            "entity_type": "menu_item",
+            "entity_uuid": "rqlFoKwzEeqoeNsM3iTETA",
+            "main_tag": "food",
+            "status": "APPROVED",
+            "visible_to_diner": true,
+            "validations_map": {
+                "STATUS_CHANGED_REASON": {},
+                "STATUS_CHANGED_BY": {},
+                "STATUS_CHANGED_DATETIME": {}
+            }
+        }
+    ]
+}

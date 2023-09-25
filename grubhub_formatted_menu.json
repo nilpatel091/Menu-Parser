@@ -1,5 +1,5 @@
 {
-    "title": "title_grubhub",
+    "title": "title_grubhub1",
     "type": null,
     "categories": [
         {
@@ -9,6 +9,7 @@
             "items": [
                 {
                     "title": " Garden Salad",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Iceberg lettuce, romaine lettuce, carrots, cucumber, green pepper, purple cabbage. Add protein for an additional charge.",
                     "image_url": null,
@@ -152,6 +153,7 @@
                 },
                 {
                     "title": " House Greek Salad",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Romaine lettuce, Parmesan cheese and croutons. Add protein for an additional charge.",
                     "image_url": null,
@@ -295,6 +297,7 @@
                 },
                 {
                     "title": "Classic Caesar",
+                    "is_archived": false,
                     "price": 8.4,
                     "description": "Romaine lettuce, Parmesan cheese and croutons. Add protein for an additional charge.",
                     "image_url": null,
@@ -431,6 +434,7 @@
                 },
                 {
                     "title": "Baked Salmon Salad",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -517,6 +521,7 @@
                 },
                 {
                     "title": "Crabmeat Salad",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -603,6 +608,7 @@
                 },
                 {
                     "title": "Cold Chicken Salad",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -689,6 +695,7 @@
                 },
                 {
                     "title": "Chef Salad",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "Roast beef, ham, turkey, and provolone.",
                     "image_url": null,
@@ -775,6 +782,7 @@
                 },
                 {
                     "title": "Antipasto",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "Mortadella, salami, Swiss.",
                     "image_url": null,
@@ -868,6 +876,7 @@
             "items": [
                 {
                     "title": "Chicken Parmigiana",
+                    "is_archived": false,
                     "price": 13.6,
                     "description": "Crispy fired chicken, marinara and mozzarella.",
                     "image_url": null,
@@ -898,6 +907,7 @@
                 },
                 {
                     "title": "Veal Parmigiana",
+                    "is_archived": false,
                     "price": 13.6,
                     "description": "Crispy fried veal, marinara and mozzarella.",
                     "image_url": null,
@@ -928,6 +938,7 @@
                 },
                 {
                     "title": "Meatball Parmigiana",
+                    "is_archived": false,
                     "price": 13.6,
                     "description": "Baked meatballs, marinara and mozzarella.",
                     "image_url": null,
@@ -958,6 +969,7 @@
                 },
                 {
                     "title": "Eggplant Parmigiana",
+                    "is_archived": false,
                     "price": 13.6,
                     "description": "Crispy fried eggplant, marinara and mozzarella.",
                     "image_url": null,
@@ -988,6 +1000,7 @@
                 },
                 {
                     "title": "Chicken Broccoli Alfredo",
+                    "is_archived": false,
                     "price": 13.6,
                     "description": "Grilled chicken, broccoli and homemade Alfredo sauce.",
                     "image_url": null,
@@ -1018,6 +1031,7 @@
                 },
                 {
                     "title": "Shrimp Broccoli Alfredo",
+                    "is_archived": false,
                     "price": 16.6,
                     "description": "Grilled shrimp broccoli and homemade Alfredo sauce.",
                     "image_url": null,
@@ -1048,6 +1062,7 @@
                 },
                 {
                     "title": "Steak Broccoli Alfredo",
+                    "is_archived": false,
                     "price": 16.6,
                     "description": "Steak tips, broccoli and homemade Alfredo sauce.",
                     "image_url": null,
@@ -1078,6 +1093,7 @@
                 },
                 {
                     "title": "Ziti and Sauce",
+                    "is_archived": false,
                     "price": 10.6,
                     "description": "Served with your choice of sauce.",
                     "image_url": null,
@@ -1122,6 +1138,7 @@
                 },
                 {
                     "title": "Lasagna",
+                    "is_archived": false,
                     "price": 13.2,
                     "description": "Traditional  with meat.",
                     "image_url": null,
@@ -1129,6 +1146,7 @@
                 },
                 {
                     "title": "Mac and Cheese",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Elbow pasta, homemade cheese sauce.",
                     "image_url": null,
@@ -1136,6 +1154,7 @@
                 },
                 {
                     "title": "Stuffed Shells",
+                    "is_archived": false,
                     "price": 13.2,
                     "description": "Stuffed with a ricotta mix, topped with marinara and mozzarella.",
                     "image_url": null,
@@ -1143,6 +1162,7 @@
                 },
                 {
                     "title": "Cheese Ravioli",
+                    "is_archived": false,
                     "price": 11.8,
                     "description": "Marinara and mozzarella.",
                     "image_url": null,
@@ -1157,6 +1177,7 @@
             "items": [
                 {
                     "title": "Cheese Pizza",
+                    "is_archived": false,
                     "price": 10.99,
                     "description": "Homemade pizza sauce and blended pizza cheese.",
                     "image_url": null,
@@ -1363,6 +1384,7 @@
                 },
                 {
                     "title": "Individual Cheese Pizza",
+                    "is_archived": false,
                     "price": 8.39,
                     "description": "",
                     "image_url": null,
@@ -1547,6 +1569,7 @@
                 },
                 {
                     "title": "Gluten Free 12\" Cheese Pizza",
+                    "is_archived": false,
                     "price": 13.99,
                     "description": "",
                     "image_url": null,
@@ -1738,6 +1761,7 @@
             "items": [
                 {
                     "title": "BBQ Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "BBQ Sauce base, grilled chicken, onions and feta cheese.",
                     "image_url": null,
@@ -1768,6 +1792,7 @@
                 },
                 {
                     "title": "Buffalo Bomb Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Blue cheese base Buffalo grilled chicken, onions and banana pepper ring.",
                     "image_url": null,
@@ -1798,6 +1823,7 @@
                 },
                 {
                     "title": "Veggie Lovers Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza sauce base, onions, pepper, mushrooms, sliced olives and cheese.",
                     "image_url": null,
@@ -1828,6 +1854,7 @@
                 },
                 {
                     "title": "Hawaiian Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza sauce base, ham, pineapple and cheese.",
                     "image_url": null,
@@ -1858,6 +1885,7 @@
                 },
                 {
                     "title": "Greek Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Feta cheese, onions, tomatoes, olives ,homemade house sauce and pizza cheese. ",
                     "image_url": null,
@@ -1888,6 +1916,7 @@
                 },
                 {
                     "title": "Meat Lovers Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza sauce base, pepperoni, meatballs, beacon, sausage and cheese.",
                     "image_url": null,
@@ -1918,6 +1947,7 @@
                 },
                 {
                     "title": "Shrimp Broccoli Alfredo Pizza",
+                    "is_archived": false,
                     "price": 18.0,
                     "description": "Alfredo sauce base, grilled shrimp broccoli and cheese.",
                     "image_url": null,
@@ -1948,6 +1978,7 @@
                 },
                 {
                     "title": "Eggplant Pam Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza sauce base, breaded eggplant (topped with marinara and cheese).",
                     "image_url": null,
@@ -1978,6 +2009,7 @@
                 },
                 {
                     "title": "Philly Steak Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza sauce base, shaved steak, grilled onion pepper mushroom banana pepper ring and cheese. ",
                     "image_url": null,
@@ -2008,6 +2040,7 @@
                 },
                 {
                     "title": "Linguica Pizza",
+                    "is_archived": true,
                     "price": 15.6,
                     "description": "Pizza sauce base topped with crispy linguica.",
                     "image_url": null,
@@ -2038,6 +2071,7 @@
                 },
                 {
                     "title": "Indian Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza sauce base topped with chili peppers, ginger, cilantro, onions, green peppers and broccoli with mozzarella cheese.",
                     "image_url": null,
@@ -2068,6 +2102,7 @@
                 },
                 {
                     "title": "Scampi Pizza",
+                    "is_archived": true,
                     "price": 15.6,
                     "description": "A garlic-lemon based sauce topped with seasoned shrimp ,parsley, and mozzarella cheese.",
                     "image_url": null,
@@ -2098,6 +2133,7 @@
                 },
                 {
                     "title": "Mexican Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza sauce base, ham burger, onions, jalapenos, slices tomatoes, slices olives and cheese.",
                     "image_url": null,
@@ -2128,6 +2164,7 @@
                 },
                 {
                     "title": "White Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Oil roasted garlic and ricotta cheese.",
                     "image_url": null,
@@ -2158,6 +2195,7 @@
                 },
                 {
                     "title": "Honey Mustard Chicken Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Ranch based pizza topped with crispy honey mustard chicken and mozzarella cheese.  ",
                     "image_url": null,
@@ -2188,6 +2226,7 @@
                 },
                 {
                     "title": "Mediterranean Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Garlic sauce base topped with pizza cheese, feta, spinach, eggplant and fresh garlic.",
                     "image_url": null,
@@ -2218,6 +2257,7 @@
                 },
                 {
                     "title": "Reuben Pizza",
+                    "is_archived": true,
                     "price": 15.6,
                     "description": "1000 Island sauce base, grilled pastrami, Swiss cheese and grilled onions.",
                     "image_url": null,
@@ -2248,6 +2288,7 @@
                 },
                 {
                     "title": "Piccata Pizza",
+                    "is_archived": true,
                     "price": 15.6,
                     "description": "No sauce pizza, pizza cheese fresh garlic, tomato, parsley, fresh mozzarella smothered with garlic butter.",
                     "image_url": null,
@@ -2278,6 +2319,7 @@
                 },
                 {
                     "title": "Bacon Cheddar Delight",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Bacon, cheddar cheese, pizza sauce, and mozzarella cheese.",
                     "image_url": null,
@@ -2308,6 +2350,7 @@
                 },
                 {
                     "title": "Spinach Feta Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Spinach, feta, and mozzarella cheese.",
                     "image_url": null,
@@ -2338,6 +2381,7 @@
                 },
                 {
                     "title": "Chicken Bacon Ranch Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Ranch sauce base, grilled chicken, beacon, red onions and cheese (glazed with ranch dressing).",
                     "image_url": null,
@@ -2368,6 +2412,7 @@
                 },
                 {
                     "title": "Aks Supreme",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pepperoni, sausage, hamburger, peppers, onions, olives, and mushrooms.",
                     "image_url": null,
@@ -2398,6 +2443,7 @@
                 },
                 {
                     "title": "Chicken Tikka Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Chicken tikka, tikka gravy, pizza cheese.",
                     "image_url": null,
@@ -2428,6 +2474,7 @@
                 },
                 {
                     "title": "Paneer Tikka Pizza",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Paneer tikka, tikka gravy, pizza cheese.",
                     "image_url": null,
@@ -2465,6 +2512,7 @@
             "items": [
                 {
                     "title": "Pizza Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pizza cheese and marinara sauce.",
                     "image_url": null,
@@ -2495,6 +2543,7 @@
                 },
                 {
                     "title": "Ham Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Provolone cheese, peppers, ham and onions.",
                     "image_url": null,
@@ -2525,6 +2574,7 @@
                 },
                 {
                     "title": "Veggie Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Onions, peppers, and mushrooms.",
                     "image_url": null,
@@ -2555,6 +2605,7 @@
                 },
                 {
                     "title": "Chicken Teryaki Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Feta, grilled chicken, tomato, and onions.",
                     "image_url": null,
@@ -2585,6 +2636,7 @@
                 },
                 {
                     "title": "Italian Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Salami, hot ham, onions, mortadella, and provolone.",
                     "image_url": null,
@@ -2615,6 +2667,7 @@
                 },
                 {
                     "title": "6 Cheese Blend Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Provolone, feta, American, cheddar, ricotta, and mozzarella.",
                     "image_url": null,
@@ -2645,6 +2698,7 @@
                 },
                 {
                     "title": "Traditional Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Pepperoni, pizza cheese, marinara sauce and ricotta cheese.",
                     "image_url": null,
@@ -2675,6 +2729,7 @@
                 },
                 {
                     "title": "Chicken Parm Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Breaded crispy chicken, pizza cheese, marinara and ricotta cheese.",
                     "image_url": null,
@@ -2705,6 +2760,7 @@
                 },
                 {
                     "title": "Veal Parm Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Breaded crispy veal, pizza cheese, marinara and ricotta cheese.",
                     "image_url": null,
@@ -2735,6 +2791,7 @@
                 },
                 {
                     "title": "Eggplant Parm Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Breaded crispy eggplant, pizza cheese, marinara and ricotta cheese.",
                     "image_url": null,
@@ -2765,6 +2822,7 @@
                 },
                 {
                     "title": "Meatball Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Meatballs, pizza cheese, marinara and ricotta cheese.",
                     "image_url": null,
@@ -2795,6 +2853,7 @@
                 },
                 {
                     "title": "Steak and Cheese Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Shaved steak and pizza cheese.",
                     "image_url": null,
@@ -2825,6 +2884,7 @@
                 },
                 {
                     "title": "Buffalo Finger Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Buffalo grilled or fried chicken and pizza cheese. ",
                     "image_url": null,
@@ -2877,6 +2937,7 @@
                 },
                 {
                     "title": "Chicken Tikka Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Chicken tikka, tikka gravy, pizza cheese.",
                     "image_url": null,
@@ -2907,6 +2968,7 @@
                 },
                 {
                     "title": "Paneer Tikka Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Paneer tikka, tikka gravy, pizza cheese.",
                     "image_url": null,
@@ -2937,6 +2999,7 @@
                 },
                 {
                     "title": "Chicken Broccoli Alfredo Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Grilled chicken, broccoli, red onions, Alfredo sauce and pizza cheese. ",
                     "image_url": null,
@@ -2967,6 +3030,7 @@
                 },
                 {
                     "title": "Spinach Feta Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Feta cheese, red onions, spinach, tossed with homemade house sauce and pizza cheese. ",
                     "image_url": null,
@@ -2997,6 +3061,7 @@
                 },
                 {
                     "title": "Steak Bomb Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "Onions, peppers, and mushrooms and pepperoni.",
                     "image_url": null,
@@ -3027,6 +3092,7 @@
                 },
                 {
                     "title": "BBQ Calzone Calzone",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "BBQ grilled or crispy chicken.",
                     "image_url": null,
@@ -3057,6 +3123,7 @@
                 },
                 {
                     "title": "Create Your Own Calzone",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "Make your customized calzone.",
                     "image_url": null,
@@ -3094,6 +3161,7 @@
             "items": [
                 {
                     "title": "Cheeseburger",
+                    "is_archived": false,
                     "price": 10.2,
                     "description": "American cheese, lettuce, tomato, red onions, pickles. Add bacon for an additional charge.",
                     "image_url": null,
@@ -3146,6 +3214,7 @@
                 },
                 {
                     "title": "Hamburger",
+                    "is_archived": false,
                     "price": 8.0,
                     "description": "Piled with sauteed onions and peppers, mushrooms, bacon, American cheese and spicy BBQ sauce.",
                     "image_url": null,
@@ -3183,6 +3252,7 @@
                 },
                 {
                     "title": "Bourbon Burger",
+                    "is_archived": true,
                     "price": 9.6,
                     "description": "Spicy ketchup, pepper jack cheese, lettuce, tomato and Bourbon onions.",
                     "image_url": null,
@@ -3220,6 +3290,7 @@
                 },
                 {
                     "title": "Double Cheeseburger",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -3257,6 +3328,7 @@
                 },
                 {
                     "title": "Double Hamburger",
+                    "is_archived": false,
                     "price": 11.0,
                     "description": "",
                     "image_url": null,
@@ -3294,6 +3366,7 @@
                 },
                 {
                     "title": "The Blanca Burger",
+                    "is_archived": true,
                     "price": 13.2,
                     "description": "All beef burger with sauteed onions, American and provolone cheese, mayo on a toasted bun off the grill.",
                     "image_url": null,
@@ -3331,6 +3404,7 @@
                 },
                 {
                     "title": "Chipotle Burger",
+                    "is_archived": true,
                     "price": 10.8,
                     "description": "Bacon, jalapenos, lettuce, tomato and spicy chipotle mayo.",
                     "image_url": null,
@@ -3368,6 +3442,7 @@
                 },
                 {
                     "title": "Veggie Burger",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -3405,6 +3480,7 @@
                 },
                 {
                     "title": "Black Bean Burger",
+                    "is_archived": true,
                     "price": 8.4,
                     "description": "",
                     "image_url": null,
@@ -3442,6 +3518,7 @@
                 },
                 {
                     "title": "Grilled Cheese Sandwiches",
+                    "is_archived": true,
                     "price": 8.4,
                     "description": "Texas toast slice bread with a blend of American, provolone, mozzarella and cheddar cheese on the grill for a melty cheese taste. ",
                     "image_url": null,
@@ -3479,6 +3556,7 @@
                 },
                 {
                     "title": "Greek Burger",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "8 oz. pattie, feta cheese, black olives, lettuce, tomato, onions.",
                     "image_url": null,
@@ -3516,6 +3594,7 @@
                 },
                 {
                     "title": "Pizza Burger",
+                    "is_archived": true,
                     "price": 10.8,
                     "description": "8 oz. pattie, marinara sauce and topped with mozzarella cheese.",
                     "image_url": null,
@@ -3560,6 +3639,7 @@
             "items": [
                 {
                     "title": "Ham and Cheese  Cold Sub",
+                    "is_archived": false,
                     "price": 9.89,
                     "description": "",
                     "image_url": null,
@@ -3690,6 +3770,7 @@
                 },
                 {
                     "title": "Turkey Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -3820,6 +3901,7 @@
                 },
                 {
                     "title": "Roast Beef Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -3950,6 +4032,7 @@
                 },
                 {
                     "title": "AK's Special Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Ham, roast beef and Swiss cheese.",
                     "image_url": null,
@@ -4080,6 +4163,7 @@
                 },
                 {
                     "title": "Italian Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Salami, ham, mortadella and provolone.",
                     "image_url": null,
@@ -4210,6 +4294,7 @@
                 },
                 {
                     "title": "American Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Ham, turkey, American cheese.",
                     "image_url": null,
@@ -4340,6 +4425,7 @@
                 },
                 {
                     "title": "Genoa Salami and Cheese Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Genoa salami and cheese.",
                     "image_url": null,
@@ -4470,6 +4556,7 @@
                 },
                 {
                     "title": "Chicken Salad Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -4600,6 +4687,7 @@
                 },
                 {
                     "title": "Tuna Salad Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -4730,6 +4818,7 @@
                 },
                 {
                     "title": "Crabmeat Cold Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -4867,6 +4956,7 @@
             "items": [
                 {
                     "title": "Steak Hot Sub",
+                    "is_archived": false,
                     "price": 8.9,
                     "description": "",
                     "image_url": null,
@@ -4990,6 +5080,7 @@
                 },
                 {
                     "title": "Steak and Cheese Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -5120,6 +5211,7 @@
                 },
                 {
                     "title": "Steak Combo Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Grilled onions, peppers, mushrooms.",
                     "image_url": null,
@@ -5250,6 +5342,7 @@
                 },
                 {
                     "title": "Steak and Eggs Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Grilled onions, peppers, mushrooms.",
                     "image_url": null,
@@ -5380,6 +5473,7 @@
                 },
                 {
                     "title": "Steak Supreme Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Grilled onions, peppers, mushrooms and pepperoni.",
                     "image_url": null,
@@ -5510,6 +5604,7 @@
                 },
                 {
                     "title": "Sausage Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Served with onions and peppers.",
                     "image_url": null,
@@ -5640,6 +5735,7 @@
                 },
                 {
                     "title": "Hot Pastrami Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Served with onions and peppers.",
                     "image_url": null,
@@ -5770,6 +5866,7 @@
                 },
                 {
                     "title": "Burger Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Choice of cheeseburger or hamburger plus toppings.",
                     "image_url": null,
@@ -5922,6 +6019,7 @@
                 },
                 {
                     "title": "BLT Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Bacon, lettuce and tomato.",
                     "image_url": null,
@@ -6052,6 +6150,7 @@
                 },
                 {
                     "title": "Egg and Cheese Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Bacon, lettuce and tomato.",
                     "image_url": null,
@@ -6182,6 +6281,7 @@
                 },
                 {
                     "title": "Fish Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Bacon, lettuce and tomato.",
                     "image_url": null,
@@ -6312,6 +6412,7 @@
                 },
                 {
                     "title": "Chicken Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Grilled or crispy.",
                     "image_url": null,
@@ -6464,6 +6565,7 @@
                 },
                 {
                     "title": "Chicken Finger Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -6594,6 +6696,7 @@
                 },
                 {
                     "title": "Buffalo Bomb Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Grilled or crispy with Buffalo chicken and bleu cheese sauce.",
                     "image_url": null,
@@ -6746,6 +6849,7 @@
                 },
                 {
                     "title": "Beef Gyro Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Processed beef meat , lettuce, tomato, tzatziki sauce.",
                     "image_url": null,
@@ -6876,6 +6980,7 @@
                 },
                 {
                     "title": " Steak Tip Hot Sub",
+                    "is_archived": false,
                     "price": 13.2,
                     "description": "",
                     "image_url": null,
@@ -7006,6 +7111,7 @@
                 },
                 {
                     "title": "Chicken Parmigiana Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Chicken cutlet, marinara sauce and provolone cheese.",
                     "image_url": null,
@@ -7136,6 +7242,7 @@
                 },
                 {
                     "title": "Veal Parmigiana Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -7266,6 +7373,7 @@
                 },
                 {
                     "title": "Eggplant Parmigiana Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -7396,6 +7504,7 @@
                 },
                 {
                     "title": "Meatball Parmigiana Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -7526,6 +7635,7 @@
                 },
                 {
                     "title": "Pastrami Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -7656,6 +7766,7 @@
                 },
                 {
                     "title": "BBQ Pulled Pork Hot Sub",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -7793,6 +7904,7 @@
             "items": [
                 {
                     "title": "Grilled Chicken Caesar Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Grilled chicken, romaine lettuce, Parmesan cheese, crutons, and Caesar dressing.",
                     "image_url": null,
@@ -7838,6 +7950,7 @@
                 },
                 {
                     "title": "Steak Caesar Wrap",
+                    "is_archived": false,
                     "price": 12.0,
                     "description": "Steak tips, romaine lettuce, Parmigiana cheese, croutons, and Caesar dressing.",
                     "image_url": null,
@@ -7883,6 +7996,7 @@
                 },
                 {
                     "title": "Buffalo Chicken Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Crispy or grilled Buffalo chicken, bleu cheese, lettuce and tomato. ",
                     "image_url": null,
@@ -7950,6 +8064,7 @@
                 },
                 {
                     "title": "BBQ Grilled Chicken Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "BBQ chicken, onions, lettuce and feta cheese. ",
                     "image_url": null,
@@ -7995,6 +8110,7 @@
                 },
                 {
                     "title": "Crispy Chicken Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "BBQ chicken, onions, lettuce and feta cheese. ",
                     "image_url": null,
@@ -8040,6 +8156,7 @@
                 },
                 {
                     "title": "Greek Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Lettuce, Tomato, onions, olives, cucumber, feta and Greek dressing. Add chicken for an additional charge.",
                     "image_url": null,
@@ -8100,6 +8217,7 @@
                 },
                 {
                     "title": "Hummus Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Hummus, romaine lettuce, olives, onions and Greek dressing. Add chicken for an additional charge.",
                     "image_url": null,
@@ -8160,6 +8278,7 @@
                 },
                 {
                     "title": "Shrimp Wrap",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "Customize your wrap.",
                     "image_url": null,
@@ -8205,6 +8324,7 @@
                 },
                 {
                     "title": "Chicken Stir Fry Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Grilled chicken, onion, tomatoes, peppers, mushrooms, teriyaki sauce and provolone cheese.",
                     "image_url": null,
@@ -8250,6 +8370,7 @@
                 },
                 {
                     "title": "Chicken Finger Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Customize your wrap.",
                     "image_url": null,
@@ -8295,6 +8416,7 @@
                 },
                 {
                     "title": "Turkey Club Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "BLT with turkey and mayo.",
                     "image_url": null,
@@ -8340,6 +8462,7 @@
                 },
                 {
                     "title": "Chicken Tikka Wrap",
+                    "is_archived": false,
                     "price": 12.0,
                     "description": "Chicken tikka, lettuce and tomato.",
                     "image_url": null,
@@ -8385,6 +8508,7 @@
                 },
                 {
                     "title": "Paneer Tikka Wrap",
+                    "is_archived": false,
                     "price": 12.0,
                     "description": "Paneer tikka, lettuce and tomato.",
                     "image_url": null,
@@ -8430,6 +8554,7 @@
                 },
                 {
                     "title": "The AK Wrap",
+                    "is_archived": false,
                     "price": 12.0,
                     "description": "Lightly toasted and stuffed with crispy chicken, bacon, french fries, mozzarella and ranch dressing. ",
                     "image_url": null,
@@ -8475,6 +8600,7 @@
                 },
                 {
                     "title": "Veggie Wrap",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Lettuce, tomato, onions, cucumbers, olives, feta, banana and green peppers, choice of dressing. ",
                     "image_url": null,
@@ -8598,6 +8724,7 @@
                 },
                 {
                     "title": "Steak and Cheese Wrap",
+                    "is_archived": false,
                     "price": 12.0,
                     "description": "Customize your wrap.",
                     "image_url": null,
@@ -8650,6 +8777,7 @@
             "items": [
                 {
                     "title": "BLT Club Sandwich",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -8680,6 +8808,7 @@
                 },
                 {
                     "title": "Cheeseburger Club Sandwich",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -8710,6 +8839,7 @@
                 },
                 {
                     "title": "Chicken Salad Club Sandwich",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -8740,6 +8870,7 @@
                 },
                 {
                     "title": "Tuna Salad Club Sandwich",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -8770,6 +8901,7 @@
                 },
                 {
                     "title": "Turkey Club Sandwich",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -8800,6 +8932,7 @@
                 },
                 {
                     "title": "Ham and Cheese Club Sandwich",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -8830,6 +8963,7 @@
                 },
                 {
                     "title": "Roast Beef Club Sandwich",
+                    "is_archived": false,
                     "price": 14.4,
                     "description": "",
                     "image_url": null,
@@ -8867,6 +9001,7 @@
             "items": [
                 {
                     "title": "10 Piece Chicken Nuggets",
+                    "is_archived": true,
                     "price": 5.59,
                     "description": "",
                     "image_url": null,
@@ -8874,6 +9009,7 @@
                 },
                 {
                     "title": "4 Piece Chicken Tenders",
+                    "is_archived": true,
                     "price": 9.99,
                     "description": "",
                     "image_url": null,
@@ -8881,27 +9017,31 @@
                 },
                 {
                     "title": "3 Wings",
+                    "is_archived": true,
                     "price": 6.99,
                     "description": "Served with fries.",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "4 Wings",
+                    "is_archived": true,
                     "price": 7.99,
                     "description": "Served with fries.",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "6 Wings",
+                    "is_archived": true,
                     "price": 10.99,
                     "description": "Served with fries, coleslaw, and bread.",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "Steak Tips",
+                    "is_archived": false,
                     "price": 22.8,
                     "description": "House marinated steak tips.",
                     "image_url": null,
@@ -9276,6 +9416,7 @@
                 },
                 {
                     "title": "Chicken Fingers",
+                    "is_archived": false,
                     "price": 17.0,
                     "description": "Chicken fingers selection: crispy, Buffalo, honey BBQ, teriyaki, and BBQ, with serving sauces: sweet and sour, honey mustard, and BBQ.",
                     "image_url": null,
@@ -9722,6 +9863,7 @@
                 },
                 {
                     "title": "Fresh Chicken Wings",
+                    "is_archived": false,
                     "price": 17.0,
                     "description": "Chicken wings selection: crispy, Buffalo, honey BBQ, teriyaki, and BBQ, with serving sauces: sweet and sour, honey mustard, and BBQ.\n\n",
                     "image_url": null,
@@ -10168,6 +10310,7 @@
                 },
                 {
                     "title": "Whole Wing Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "3 piece whole wings.",
                     "image_url": null,
@@ -10542,6 +10685,7 @@
                 },
                 {
                     "title": "1/2 Chicken Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -10916,6 +11060,7 @@
                 },
                 {
                     "title": "Whole Chicken Dinner",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -11290,6 +11435,7 @@
                 },
                 {
                     "title": "Gyro Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -11664,6 +11810,7 @@
                 },
                 {
                     "title": "Pork Chops",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -12038,6 +12185,7 @@
                 },
                 {
                     "title": "Chicken Breast Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -12412,6 +12560,7 @@
                 },
                 {
                     "title": "Chicken Teriyaki Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -12786,6 +12935,7 @@
                 },
                 {
                     "title": "Roast Beef Sandwich Dinner",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "",
                     "image_url": null,
@@ -13160,6 +13310,7 @@
                 },
                 {
                     "title": "Pastrami Sandwich Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -13534,6 +13685,7 @@
                 },
                 {
                     "title": "Fish Filet Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -13908,6 +14060,7 @@
                 },
                 {
                     "title": "Chicken Filet Dinner",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -14282,6 +14435,7 @@
                 },
                 {
                     "title": "Burger Sandwich Dinner",
+                    "is_archived": false,
                     "price": 15.6,
                     "description": "",
                     "image_url": null,
@@ -14663,9 +14817,10 @@
             "items": [
                 {
                     "title": "Catfish Dinner",
+                    "is_archived": true,
                     "price": 10.49,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
                     "modifier_categories": [
                         {
                             "title": "Choose a size",
@@ -14700,6 +14855,7 @@
                 },
                 {
                     "title": "Ocean Perch",
+                    "is_archived": true,
                     "price": 10.49,
                     "description": "",
                     "image_url": null,
@@ -14737,6 +14893,7 @@
                 },
                 {
                     "title": "Buffalo",
+                    "is_archived": true,
                     "price": 9.69,
                     "description": "",
                     "image_url": null,
@@ -14774,6 +14931,7 @@
                 },
                 {
                     "title": "Jack Salmon",
+                    "is_archived": true,
                     "price": 9.69,
                     "description": "Whiting.",
                     "image_url": null,
@@ -14811,6 +14969,7 @@
                 },
                 {
                     "title": "Shrimp",
+                    "is_archived": true,
                     "price": 13.29,
                     "description": "",
                     "image_url": null,
@@ -14841,9 +15000,10 @@
                 },
                 {
                     "title": "Jumbo Shrimp",
+                    "is_archived": true,
                     "price": 14.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593068038/oydqzmbsfkwbplai88bw.jpg",
                     "modifier_categories": [
                         {
                             "title": "Choose a size",
@@ -14871,6 +15031,7 @@
                 },
                 {
                     "title": "Tilapia Fillets",
+                    "is_archived": true,
                     "price": 9.29,
                     "description": "",
                     "image_url": null,
@@ -14901,9 +15062,10 @@
                 },
                 {
                     "title": "Catfish Fillets",
+                    "is_archived": true,
                     "price": 9.69,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067950/ohv4umh2tyzaet7hss39.jpg",
                     "modifier_categories": [
                         {
                             "title": "Choose a size",
@@ -14931,6 +15093,7 @@
                 },
                 {
                     "title": "Catfish Tails",
+                    "is_archived": true,
                     "price": 10.49,
                     "description": "",
                     "image_url": null,
@@ -14968,9 +15131,10 @@
                 },
                 {
                     "title": "Catfish Nuggets",
+                    "is_archived": true,
                     "price": 9.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
                     "modifier_categories": [
                         {
                             "title": "Choose a size",
@@ -14998,6 +15162,7 @@
                 },
                 {
                     "title": "Oysters",
+                    "is_archived": true,
                     "price": 11.69,
                     "description": "",
                     "image_url": null,
@@ -15028,6 +15193,7 @@
                 },
                 {
                     "title": "Fish and Chips",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -15184,6 +15350,7 @@
                 },
                 {
                     "title": "Clam Strips",
+                    "is_archived": false,
                     "price": 16.8,
                     "description": "",
                     "image_url": null,
@@ -15340,6 +15507,7 @@
                 },
                 {
                     "title": "Scallops Plate",
+                    "is_archived": false,
                     "price": 22.8,
                     "description": "",
                     "image_url": null,
@@ -15496,6 +15664,7 @@
                 },
                 {
                     "title": "Shrimp Plate",
+                    "is_archived": false,
                     "price": 22.8,
                     "description": "",
                     "image_url": null,
@@ -15652,6 +15821,7 @@
                 },
                 {
                     "title": "Haddock Dinner",
+                    "is_archived": false,
                     "price": 22.8,
                     "description": "",
                     "image_url": null,
@@ -15808,6 +15978,7 @@
                 },
                 {
                     "title": "Shrimp Platter",
+                    "is_archived": false,
                     "price": 22.8,
                     "description": "",
                     "image_url": null,
@@ -15964,6 +16135,7 @@
                 },
                 {
                     "title": "Seafood Platter",
+                    "is_archived": false,
                     "price": 30.0,
                     "description": "Fish, shrimp, scallops and clam strips.",
                     "image_url": null,
@@ -16127,6 +16299,7 @@
             "items": [
                 {
                     "title": "Fish and Chicken Combo #1",
+                    "is_archived": true,
                     "price": 12.99,
                     "description": "Served with fries, bread, coleslaw, and pop. Must make 2 different selections.",
                     "image_url": null,
@@ -16404,6 +16577,7 @@
                 },
                 {
                     "title": "Fish and Chicken Combo #2",
+                    "is_archived": true,
                     "price": 15.69,
                     "description": "Served with fries, coleslaw, and bread.",
                     "image_url": null,
@@ -16596,6 +16770,7 @@
                 },
                 {
                     "title": "Ribs and 1/2 Chicken",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16603,6 +16778,7 @@
                 },
                 {
                     "title": "Steak Tips and 1/2 Chicken",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16610,6 +16786,7 @@
                 },
                 {
                     "title": "Pork Chops and 1/2 Chicken",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16617,6 +16794,7 @@
                 },
                 {
                     "title": "Wings and Chicken Breast",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "Choose a wing sauce.",
                     "image_url": null,
@@ -16668,6 +16846,7 @@
                 },
                 {
                     "title": "Ribs and Steak Tips",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16675,6 +16854,7 @@
                 },
                 {
                     "title": "Ribs and Pork Chops",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16682,6 +16862,7 @@
                 },
                 {
                     "title": "Ribs and Wings",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16733,6 +16914,7 @@
                 },
                 {
                     "title": "Ribs and Chicken Breast",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16740,6 +16922,7 @@
                 },
                 {
                     "title": "Wings and Steak Tips",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16791,6 +16974,7 @@
                 },
                 {
                     "title": "Wings and Pork Chops",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16842,6 +17026,7 @@
                 },
                 {
                     "title": "Steak Tips and Pork Chops",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16849,6 +17034,7 @@
                 },
                 {
                     "title": "Pork Chops and Chicken Breast",
+                    "is_archived": false,
                     "price": 21.6,
                     "description": "",
                     "image_url": null,
@@ -16863,6 +17049,7 @@
             "items": [
                 {
                     "title": "French Fries",
+                    "is_archived": false,
                     "price": 4.8,
                     "description": "Regular fries with a light coating.",
                     "image_url": null,
@@ -16900,6 +17087,7 @@
                 },
                 {
                     "title": "Curly Fries",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "Curly fries with seasoning.",
                     "image_url": null,
@@ -16937,6 +17125,7 @@
                 },
                 {
                     "title": "Sweet Potato Fries",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "Regular sweet potato fries.",
                     "image_url": null,
@@ -16974,6 +17163,7 @@
                 },
                 {
                     "title": "Bacon Cheddar Fries",
+                    "is_archived": false,
                     "price": 10.2,
                     "description": "Regular fries topped with bacon and cheddar.",
                     "image_url": null,
@@ -16981,6 +17171,7 @@
                 },
                 {
                     "title": "Spicy Fries",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "Fries with a mild spice taste.",
                     "image_url": null,
@@ -17018,6 +17209,7 @@
                 },
                 {
                     "title": "Cheesy Fries",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Regular fries topped with cheese.",
                     "image_url": null,
@@ -17025,6 +17217,7 @@
                 },
                 {
                     "title": "Onion Rings",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "Regular onions in batter and fried.",
                     "image_url": null,
@@ -17062,6 +17255,7 @@
                 },
                 {
                     "title": "Mozzarella Sticks",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Served with marinara sauce.",
                     "image_url": null,
@@ -17092,6 +17286,7 @@
                 },
                 {
                     "title": "Jalapeno Poppers",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Served with ranch dressing.",
                     "image_url": null,
@@ -17099,6 +17294,7 @@
                 },
                 {
                     "title": "Spaghetti",
+                    "is_archived": true,
                     "price": 2.79,
                     "description": "",
                     "image_url": null,
@@ -17106,6 +17302,7 @@
                 },
                 {
                     "title": "Okra",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -17113,6 +17310,7 @@
                 },
                 {
                     "title": "Hush Puppies",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -17120,6 +17318,7 @@
                 },
                 {
                     "title": "Cauliflower",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -17127,6 +17326,7 @@
                 },
                 {
                     "title": "Zucchini",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -17134,6 +17334,7 @@
                 },
                 {
                     "title": "Mushroom",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -17141,6 +17342,7 @@
                 },
                 {
                     "title": "Pizza Pie",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "Served with fries.",
                     "image_url": null,
@@ -17148,6 +17350,7 @@
                 },
                 {
                     "title": "Stuffed Jalapenos",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -17155,6 +17358,7 @@
                 },
                 {
                     "title": "Cheese Sticks",
+                    "is_archived": true,
                     "price": 4.99,
                     "description": "Served with fries.",
                     "image_url": null,
@@ -17162,6 +17366,7 @@
                 },
                 {
                     "title": "Garlic Bread",
+                    "is_archived": false,
                     "price": 2.4,
                     "description": "a small French roll drizzzled with garlic sauce with option of adding cheese for an additional charge.",
                     "image_url": null,
@@ -17207,6 +17412,7 @@
                 },
                 {
                     "title": "Egg Roll",
+                    "is_archived": false,
                     "price": 4.8,
                     "description": "You can select from pizza, steak and cheese as well spinach and feta.",
                     "image_url": null,
@@ -17244,6 +17450,7 @@
                 },
                 {
                     "title": "Jamaican Beef Patty",
+                    "is_archived": false,
                     "price": 4.8,
                     "description": "An Island patty stuffed with beef and mild spices with option of adding cheese for an additional charge.",
                     "image_url": null,
@@ -17267,6 +17474,7 @@
                 },
                 {
                     "title": "Wing Dings",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "A pre-battered wingette fried and served with side sauces.",
                     "image_url": null,
@@ -17297,6 +17505,7 @@
                 },
                 {
                     "title": "Chicken Nuggets",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "Fried nugget served with dipping sauces.",
                     "image_url": null,
@@ -17327,6 +17536,7 @@
                 },
                 {
                     "title": "Potato Skins",
+                    "is_archived": false,
                     "price": 10.8,
                     "description": "Topped with bacon, cheddar cheese and sour cream.",
                     "image_url": null,
@@ -17334,6 +17544,7 @@
                 },
                 {
                     "title": "Fried Pickles",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "A dells pickle battered and fried.",
                     "image_url": null,
@@ -17341,6 +17552,7 @@
                 },
                 {
                     "title": "Coleslaw",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17348,6 +17560,7 @@
                 },
                 {
                     "title": "Gyro Melt",
+                    "is_archived": true,
                     "price": 2.99,
                     "description": "Served with fries.",
                     "image_url": null,
@@ -17355,6 +17568,7 @@
                 },
                 {
                     "title": "Yams",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17362,6 +17576,7 @@
                 },
                 {
                     "title": "Corn",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17369,6 +17584,7 @@
                 },
                 {
                     "title": "Rice Pilaf",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17376,6 +17592,7 @@
                 },
                 {
                     "title": "Mashed Potatos",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17383,6 +17600,7 @@
                 },
                 {
                     "title": "Collard Greens",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17390,6 +17608,7 @@
                 },
                 {
                     "title": "Buffalo Bites",
+                    "is_archived": false,
                     "price": 9.6,
                     "description": "A crispy Buffalo chicken ball stuffed with cheese and served with blue cheese.",
                     "image_url": null,
@@ -17397,6 +17616,7 @@
                 },
                 {
                     "title": "Mac and Cheese Bites",
+                    "is_archived": false,
                     "price": 8.4,
                     "description": "Mac and cheese battered and fried.",
                     "image_url": null,
@@ -17404,6 +17624,7 @@
                 },
                 {
                     "title": "Side Salad",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "A garden salad served with a dressing, can add feta cheese for an additional charge.",
                     "image_url": null,
@@ -17512,6 +17733,7 @@
             "items": [
                 {
                     "title": "Kids 6 Chicken Nuggets",
+                    "is_archived": true,
                     "price": 4.59,
                     "description": "",
                     "image_url": null,
@@ -17577,6 +17799,7 @@
                 },
                 {
                     "title": "Kids 2 Wings",
+                    "is_archived": true,
                     "price": 4.59,
                     "description": "",
                     "image_url": null,
@@ -17642,6 +17865,7 @@
                 },
                 {
                     "title": "Kids Chicken Fingers and Fries ",
+                    "is_archived": true,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -17649,6 +17873,7 @@
                 },
                 {
                     "title": "Kids Slider and Fries",
+                    "is_archived": true,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -17656,6 +17881,7 @@
                 },
                 {
                     "title": "Kids Mac and Cheese",
+                    "is_archived": true,
                     "price": 8.4,
                     "description": "",
                     "image_url": null,
@@ -17663,6 +17889,7 @@
                 },
                 {
                     "title": "Kids Mozzarella Sticks with Fries",
+                    "is_archived": true,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -17670,6 +17897,7 @@
                 },
                 {
                     "title": "Kids Grilled Cheese with Fries",
+                    "is_archived": true,
                     "price": 9.6,
                     "description": "",
                     "image_url": null,
@@ -17677,6 +17905,7 @@
                 },
                 {
                     "title": "Kids Pasta ",
+                    "is_archived": true,
                     "price": 8.4,
                     "description": "Choice: ziti or linguini.",
                     "image_url": null,
@@ -17714,6 +17943,7 @@
             "items": [
                 {
                     "title": "Carrot Cake",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17721,6 +17951,7 @@
                 },
                 {
                     "title": "Cheesecake",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17728,6 +17959,7 @@
                 },
                 {
                     "title": "Peach Cobbler",
+                    "is_archived": true,
                     "price": 3.59,
                     "description": "",
                     "image_url": null,
@@ -17735,6 +17967,7 @@
                 },
                 {
                     "title": "Banana Mana Pudding",
+                    "is_archived": true,
                     "price": 3.69,
                     "description": "",
                     "image_url": null,
@@ -17742,6 +17975,7 @@
                 },
                 {
                     "title": "Cake",
+                    "is_archived": true,
                     "price": 3.69,
                     "description": "",
                     "image_url": null,
@@ -17793,6 +18027,7 @@
                 },
                 {
                     "title": "Parfaits",
+                    "is_archived": true,
                     "price": 3.99,
                     "description": "",
                     "image_url": null,
@@ -17800,6 +18035,7 @@
                 },
                 {
                     "title": "Taffy Grapes",
+                    "is_archived": true,
                     "price": 5.79,
                     "description": "",
                     "image_url": null,
@@ -17807,6 +18043,7 @@
                 },
                 {
                     "title": "Chocolate Cake",
+                    "is_archived": false,
                     "price": 6.0,
                     "description": "",
                     "image_url": null,
@@ -17814,6 +18051,7 @@
                 },
                 {
                     "title": "Fried Cheesecake",
+                    "is_archived": true,
                     "price": 4.8,
                     "description": "",
                     "image_url": null,
@@ -17828,6 +18066,7 @@
             "items": [
                 {
                     "title": "Mistic",
+                    "is_archived": true,
                     "price": 2.99,
                     "description": "",
                     "image_url": null,
@@ -17886,6 +18125,7 @@
                 },
                 {
                     "title": "Can Pop",
+                    "is_archived": true,
                     "price": 1.09,
                     "description": "",
                     "image_url": null,
@@ -17965,6 +18205,7 @@
                 },
                 {
                     "title": "20 oz. Pop",
+                    "is_archived": true,
                     "price": 2.19,
                     "description": "",
                     "image_url": null,
@@ -18044,6 +18285,7 @@
                 },
                 {
                     "title": "1 Liter Pop",
+                    "is_archived": true,
                     "price": 2.99,
                     "description": "",
                     "image_url": null,
@@ -18123,20 +18365,23 @@
                 },
                 {
                     "title": "Coke",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1601576128/kcid0x7hniljxvspt1mr.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "Diet Coke ",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1603464163/eufqsvxi5izinwe50wcz.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "Ginger Ale",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
                     "image_url": null,
@@ -18144,6 +18389,7 @@
                 },
                 {
                     "title": "Spirit",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
                     "image_url": null,
@@ -18151,6 +18397,7 @@
                 },
                 {
                     "title": "Root Beer",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
                     "image_url": null,
@@ -18158,6 +18405,7 @@
                 },
                 {
                     "title": "Orange",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
                     "image_url": null,
@@ -18165,6 +18413,7 @@
                 },
                 {
                     "title": "Ice Tea",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
                     "image_url": null,
@@ -18172,6 +18421,7 @@
                 },
                 {
                     "title": "Lemonade",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
                     "image_url": null,
@@ -18179,6 +18429,7 @@
                 },
                 {
                     "title": "Water",
+                    "is_archived": false,
                     "price": 3.0,
                     "description": "",
                     "image_url": null,
@@ -18193,20 +18444,23 @@
             "items": [
                 {
                     "title": "25 Wings with Fries",
+                    "is_archived": true,
                     "price": 32.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "8 Wings with Fries",
+                    "is_archived": true,
                     "price": 12.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067868/aurw4qkasykr7at6gbv0.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "5 Pieces of Fish and 10 Wings with Fries",
+                    "is_archived": true,
                     "price": 28.99,
                     "description": "",
                     "image_url": null,
@@ -18258,6 +18512,7 @@
                 },
                 {
                     "title": "Special",
+                    "is_archived": true,
                     "price": 8.59,
                     "description": "Served with fries and pop.",
                     "image_url": null,
@@ -18408,9 +18663,10 @@
                 },
                 {
                     "title": "Catfish Nuggets",
+                    "is_archived": true,
                     "price": 9.29,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
                     "modifier_categories": [
                         {
                             "title": "Choose a size",
@@ -18438,6 +18694,7 @@
                 },
                 {
                     "title": "3 Piece Fish with Fries",
+                    "is_archived": true,
                     "price": 10.99,
                     "description": "",
                     "image_url": null,
@@ -18468,6 +18725,7 @@
                 },
                 {
                     "title": "6 Pieces Fish with Fries",
+                    "is_archived": true,
                     "price": 18.99,
                     "description": "",
                     "image_url": null,
@@ -18505,6 +18763,7 @@
             "items": [
                 {
                     "title": "10 Piece Fish and 10 Wings",
+                    "is_archived": true,
                     "price": 42.99,
                     "description": "",
                     "image_url": null,
@@ -18556,6 +18815,7 @@
                 },
                 {
                     "title": "10 Piece Fish and 20 Wings",
+                    "is_archived": true,
                     "price": 53.99,
                     "description": "",
                     "image_url": null,
@@ -18607,6 +18867,7 @@
                 },
                 {
                     "title": "10 Piece Fish and 30 Wings",
+                    "is_archived": true,
                     "price": 64.99,
                     "description": "",
                     "image_url": null,
@@ -18658,6 +18919,7 @@
                 },
                 {
                     "title": "20 Piece Fish and 20 Wings",
+                    "is_archived": true,
                     "price": 76.99,
                     "description": "",
                     "image_url": null,
@@ -18709,6 +18971,7 @@
                 },
                 {
                     "title": "20 Piece Fish and 50 Wings",
+                    "is_archived": true,
                     "price": 99.99,
                     "description": "",
                     "image_url": null,
@@ -18767,6 +19030,7 @@
             "items": [
                 {
                     "title": "10 Piece Chicken Mix Special",
+                    "is_archived": true,
                     "price": 12.99,
                     "description": "",
                     "image_url": null,
@@ -18774,6 +19038,7 @@
                 },
                 {
                     "title": "20 Piece Chicken Mix Special",
+                    "is_archived": true,
                     "price": 24.99,
                     "description": "",
                     "image_url": null,
@@ -18781,6 +19046,7 @@
                 },
                 {
                     "title": "50 Piece Chicken Mix Special",
+                    "is_archived": true,
                     "price": 54.99,
                     "description": "",
                     "image_url": null,
@@ -18795,9 +19061,10 @@
             "items": [
                 {
                     "title": "10 Piece Fish",
+                    "is_archived": true,
                     "price": 31.99,
                     "description": "Catfish, catfish fillet, or tilapia.",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
                     "modifier_categories": [
                         {
                             "title": "Choose a fish",
@@ -18832,6 +19099,7 @@
                 },
                 {
                     "title": "10 Piece Perch",
+                    "is_archived": true,
                     "price": 28.99,
                     "description": "",
                     "image_url": null,
@@ -18839,20 +19107,23 @@
                 },
                 {
                     "title": "12 Piece Catfish",
+                    "is_archived": true,
                     "price": 32.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "21 Piece All Catfish",
+                    "is_archived": true,
                     "price": 55.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "12 Piece Ocean Perch",
+                    "is_archived": true,
                     "price": 28.99,
                     "description": "",
                     "image_url": null,
@@ -18860,6 +19131,7 @@
                 },
                 {
                     "title": "21 Piece Ocean Perch",
+                    "is_archived": true,
                     "price": 51.99,
                     "description": "",
                     "image_url": null,
@@ -18867,6 +19139,7 @@
                 },
                 {
                     "title": "12 Piece Mixed Fish",
+                    "is_archived": true,
                     "price": 28.99,
                     "description": "",
                     "image_url": null,
@@ -18874,6 +19147,7 @@
                 },
                 {
                     "title": "21 Piece Mixed Fish",
+                    "is_archived": true,
                     "price": 51.99,
                     "description": "",
                     "image_url": null,
@@ -18881,13 +19155,15 @@
                 },
                 {
                     "title": "50 Piece Catfish",
+                    "is_archived": true,
                     "price": 109.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067919/e8c0rxli82en5d5p7ql3.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "50 Piece Ocean Perch",
+                    "is_archived": true,
                     "price": 103.99,
                     "description": "",
                     "image_url": null,
@@ -18902,44 +19178,50 @@
             "items": [
                 {
                     "title": "8 Wings",
+                    "is_archived": false,
                     "price": 14.99,
                     "description": "Served with two options of your choice",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "20 Wings",
+                    "is_archived": false,
                     "price": 28.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "30 Wings",
+                    "is_archived": false,
                     "price": 39.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "40 Wings",
+                    "is_archived": false,
                     "price": 48.99,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "50 Wings",
+                    "is_archived": false,
                     "price": 75.0,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
                     "modifier_categories": []
                 },
                 {
                     "title": "75 Wings",
+                    "is_archived": false,
                     "price": 115.0,
                     "description": "",
-                    "image_url": null,
+                    "image_url": "https://media-cdn.grubhub.com/image/upload/v1593067844/i0ykartni4eac3uglcic.jpg",
                     "modifier_categories": []
                 }
             ]
@@ -18951,6 +19233,7 @@
             "items": [
                 {
                     "title": "Spaghetti",
+                    "is_archived": true,
                     "price": 2.79,
                     "description": "",
                     "image_url": null,
@@ -18958,6 +19241,7 @@
                 },
                 {
                     "title": "Okra",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -18965,6 +19249,7 @@
                 },
                 {
                     "title": "Hush Puppies",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -18972,6 +19257,7 @@
                 },
                 {
                     "title": "Cauliflower",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -18979,6 +19265,7 @@
                 },
                 {
                     "title": "Onion Rings",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -18986,6 +19273,7 @@
                 },
                 {
                     "title": "Zucchini",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -18993,6 +19281,7 @@
                 },
                 {
                     "title": "Mushroom",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -19000,6 +19289,7 @@
                 },
                 {
                     "title": "Pizza Pie",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "Served with fries.",
                     "image_url": null,
@@ -19007,6 +19297,7 @@
                 },
                 {
                     "title": "Stuffed Jalapenos",
+                    "is_archived": true,
                     "price": 4.19,
                     "description": "",
                     "image_url": null,
@@ -19014,6 +19305,7 @@
                 },
                 {
                     "title": "Gyro Melt",
+                    "is_archived": true,
                     "price": 2.99,
                     "description": "Served with fries.",
                     "image_url": null,
@@ -19021,6 +19313,7 @@
                 },
                 {
                     "title": "Jalapenos",
+                    "is_archived": true,
                     "price": 0.49,
                     "description": "",
                     "image_url": null,
@@ -19028,6 +19321,7 @@
                 },
                 {
                     "title": "Cheese Sticks",
+                    "is_archived": true,
                     "price": 4.99,
                     "description": "Served with fries.",
                     "image_url": null,
@@ -19035,6 +19329,7 @@
                 },
                 {
                     "title": "Coleslaw",
+                    "is_archived": true,
                     "price": 0.49,
                     "description": "",
                     "image_url": null,
@@ -19065,6 +19360,7 @@
                 },
                 {
                     "title": "French Fries",
+                    "is_archived": true,
                     "price": 4.8,
                     "description": "",
                     "image_url": null,
@@ -19109,6 +19405,7 @@
             "items": [
                 {
                     "title": "6 Piece Boneless Chicken",
+                    "is_archived": true,
                     "price": 6.99,
                     "description": "",
                     "image_url": null,
@@ -19139,6 +19436,7 @@
                 },
                 {
                     "title": "9 Piece Boneless Chicken",
+                    "is_archived": true,
                     "price": 9.29,
                     "description": "",
                     "image_url": null,
@@ -19169,6 +19467,7 @@
                 },
                 {
                     "title": "12 Piece Boneless Chicken",
+                    "is_archived": true,
                     "price": 10.99,
                     "description": "",
                     "image_url": null,
@@ -19199,6 +19498,7 @@
                 },
                 {
                     "title": "20 Piece Boneless Chicken",
+                    "is_archived": true,
                     "price": 15.99,
                     "description": "",
                     "image_url": null,
@@ -19236,6 +19536,7 @@
             "items": [
                 {
                     "title": "6 Piece Party 1/2 Wings",
+                    "is_archived": true,
                     "price": 6.99,
                     "description": "",
                     "image_url": null,
@@ -19266,6 +19567,7 @@
                 },
                 {
                     "title": "9 Piece party 1/2 Wings",
+                    "is_archived": true,
                     "price": 9.29,
                     "description": "",
                     "image_url": null,
@@ -19296,6 +19598,7 @@
                 },
                 {
                     "title": "12 Piece Party 1/2 Wings",
+                    "is_archived": true,
                     "price": 10.99,
                     "description": "",
                     "image_url": null,
@@ -19326,6 +19629,7 @@
                 },
                 {
                     "title": "20 Piece party 1/2 Wings",
+                    "is_archived": true,
                     "price": 15.99,
                     "description": "",
                     "image_url": null,
