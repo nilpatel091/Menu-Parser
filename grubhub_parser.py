@@ -6,18 +6,18 @@ with open("grubhub_menu.json", "r") as menu:
 with open("grubhub_content.json","r") as menu:    
     content_data = json.load(menu)
 
-
-
-
 grubhub_menu = data
+grubhub_menu_media = content_data
 menu = dict()
 
 menu["images"] = {}
 
-for content in content_data["contents"]:
+for content in grubhub_menu_media["contents"]:
     if content["entity_type"] == "menu_item":
         menu["images"][content["entity_uuid"]] = {}
-        menu["images"][content["entity_uuid"]]["image_url"] = content["secure_url"]
+        menu["images"][content["entity_uuid"]]["image_url"] = content[
+            "secure_url"
+        ]
 print(menu["images"])
 
 # modifiers
@@ -45,16 +45,22 @@ for size_prompt in grubhub_menu["size_prompts"]:
 menu["modifier_categories"] = {}
 for modifier_category in grubhub_menu["modifier_prompts"]:
     new_modifier_category = dict()
-    new_modifier_category["title"] = modifier_category["latest_version"]["name"]
+    new_modifier_category["title"] = modifier_category["latest_version"][
+        "name"
+    ]
     new_modifier_category["image_url"] = None
     new_modifier_category["price"] = None
     new_modifier_category["description"] = None
     new_modifier_category["modifiers"] = []
-    for modifier_uuid in \
-            menu["modifier_lists"][modifier_category["latest_version"]["modifier_list"]]["latest_version"][
-                "modifiers"]:
-        new_modifier_category["modifiers"].append(menu["modifiers"][modifier_uuid])
-    menu["modifier_categories"][modifier_category["uuid"]] = new_modifier_category
+    for modifier_uuid in menu["modifier_lists"][
+        modifier_category["latest_version"]["modifier_list"]
+    ]["latest_version"]["modifiers"]:
+        new_modifier_category["modifiers"].append(
+            menu["modifiers"][modifier_uuid]
+        )
+    menu["modifier_categories"][
+        modifier_category["uuid"]
+    ] = new_modifier_category
 
 # items
 items = {}
@@ -68,22 +74,28 @@ for item in grubhub_menu["items"]:
     elif "price_variations" in item:
         new_item["price"] = item["price_variations"]["minimum_price"]
     new_item["description"] = item["description"]
-    if item["uuid"] in menu["images"]:        
+    if item["uuid"] in menu["images"]:
         new_item["image_url"] = menu["images"][item["uuid"]]["image_url"]
     else:
         new_item["image_url"] = None
     new_item["modifier_categories"] = []
     for modifier_category_uuid in item["modifier_prompts"]:
-        new_item["modifier_categories"].append(menu["modifier_categories"][modifier_category_uuid])
+        new_item["modifier_categories"].append(
+            menu["modifier_categories"][modifier_category_uuid]
+        )
     # add modifier_category in item for size vice price.
     if "size_prompt" in item:
         new_modifier_category = dict()
-        new_modifier_category["title"] = menu["size_prompts"][item["size_prompt"]]["latest_version"]["name"]
+        new_modifier_category["title"] = menu["size_prompts"][
+            item["size_prompt"]
+        ]["latest_version"]["name"]
         new_modifier_category["description"] = None
         new_modifier_category["price"] = None
         new_modifier_category["image_url"] = None
         new_modifier_category["modifiers"] = []
-        for size_data in menu["size_prompts"][item["size_prompt"]]["latest_version"]["sized_prices"]:
+        for size_data in menu["size_prompts"][item["size_prompt"]][
+            "latest_version"
+        ]["sized_prices"]:
             new_modifier = dict()
             new_modifier["name"] = size_data["display_name"]
             new_modifier["price"] = size_data["price"]
@@ -96,8 +108,8 @@ for item in grubhub_menu["items"]:
     items[item["uuid"]] = new_item
 menu["items"] = items
 
-for item_schedule in grubhub_menu["schedule_overrides"]["item_overrides"]: 
-    menu["items"][item_schedule["item_id"]]["is_archived"] = True 
+for item_schedule in grubhub_menu["schedule_overrides"]["item_overrides"]:
+    menu["items"][item_schedule["item_id"]]["is_archived"] = True
 
 # categories
 categories = {}
@@ -118,7 +130,7 @@ menu["categories"] = categories
 
 # menu
 menu["menu"] = {
-    "title": "title_grubhub1",
+    "title": "title_grubhub",
     "type": None,
 }
 menu["menu"]["categories"] = []
@@ -132,7 +144,7 @@ del menu["modifiers"]
 del menu["modifier_categories"]
 del menu["modifier_lists"]
 del menu["size_prompts"]
-
+menu["menu"]["integration"] = self.integration.id
 with open("grubhub_formatted_menu.json","w") as file:
     json.dump(menu["menu"], file, indent=4)
 
