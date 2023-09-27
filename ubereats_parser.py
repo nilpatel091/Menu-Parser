@@ -24,7 +24,7 @@ for modifier_uuid, modifier_data in items_data["itemsMap"].items():
     menu["sub_modifiers"][modifier_uuid]["name"] = modifier_data["itemInfo"]["title"]["defaultValue"]
     menu["sub_modifiers"][modifier_uuid]["description"] = None  
     menu["sub_modifiers"][modifier_uuid]["image_url"] = None
-    menu["sub_modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
+    menu["sub_modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]/100
 
     if "description" in modifier_data["itemInfo"]:
         if "defaultValue" in modifier_data["itemInfo"]["description"]:
@@ -54,7 +54,7 @@ for modifier_uuid, modifier_data in items_data["itemsMap"].items():
     menu["modifiers"][modifier_uuid]["name"] = modifier_data["itemInfo"]["title"]["defaultValue"]
     menu["modifiers"][modifier_uuid]["description"] = None  
     menu["modifiers"][modifier_uuid]["image_url"] = None
-    menu["modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
+    menu["modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]/100
 
     if "description" in modifier_data["itemInfo"]:
         if "defaultValue" in modifier_data["itemInfo"]["description"]:
@@ -92,7 +92,7 @@ for uuid, item_data in items_data["itemsMap"].items():
     menu["items"][uuid]["description"] = None
     menu["items"][uuid]["image_url"] = None
     menu["items"][uuid]["is_archive"] = False
-    menu["items"][uuid]["price"] = item_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
+    menu["items"][uuid]["price"] = item_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]/100
     menu["items"][uuid]["modifier_categories"] = [] 
 
     if "description" in item_data["itemInfo"]:
