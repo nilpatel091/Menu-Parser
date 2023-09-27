@@ -24,8 +24,8 @@ for modifier_uuid, modifier_data in items_data["itemsMap"].items():
     menu["sub_modifiers"][modifier_uuid]["name"] = modifier_data["itemInfo"]["title"]["defaultValue"]
     menu["sub_modifiers"][modifier_uuid]["description"] = None  
     menu["sub_modifiers"][modifier_uuid]["image_url"] = None
-    if "overrides" in modifier_data["paymentInfo"]["priceInfo"]:
-        menu["sub_modifiers"][modifier_uuid]["price"]["low"] = modifier_data["paymentInfo"]["priceInfo"]["overrides"][0]["overriddenValue"]["price"]["low"]
+    if modifier_data["paymentInfo"]["priceInfo"]["overrides"]:
+        menu["sub_modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["overrides"][0]["overriddenValue"]["price"]["low"]
     else:    
         menu["sub_modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
 
