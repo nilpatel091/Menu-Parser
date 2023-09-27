@@ -57,7 +57,11 @@ for modifier_uuid, modifier_data in items_data["itemsMap"].items():
     menu["modifiers"][modifier_uuid]["name"] = modifier_data["itemInfo"]["title"]["defaultValue"]
     menu["modifiers"][modifier_uuid]["description"] = None  
     menu["modifiers"][modifier_uuid]["image_url"] = None
-    menu["modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
+    # menu["modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
+    if modifier_data["paymentInfo"]["priceInfo"]["overrides"]:
+        menu["modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["overrides"][0]["overriddenValue"]["price"]["low"]
+    else:    
+        menu["modifiers"][modifier_uuid]["price"] = modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
 
     if "description" in modifier_data["itemInfo"]:
         if "defaultValue" in modifier_data["itemInfo"]["description"]:
