@@ -91,6 +91,7 @@ for uuid, item_data in items_data["itemsMap"].items():
     menu["items"][uuid]["title"] = item_data["itemInfo"]["title"]["defaultValue"]
     menu["items"][uuid]["description"] = None
     menu["items"][uuid]["image_url"] = None
+    menu["items"][uuid]["is_archive"] = False
     menu["items"][uuid]["price"] = item_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"]
     menu["items"][uuid]["modifier_categories"] = [] 
 
