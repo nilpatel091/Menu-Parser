@@ -1,12 +1,12 @@
 import json
 with open('ubereats/uber_eats_items.json') as items:
-    items_data = json.load(items)
+    uber_eats_items = json.load(items)
 
 with open('ubereats/uber_eats_menustructure.json') as menu_structure:
-    menu_structure_data = json.load(menu_structure) 
+    uber_eats_menu_structure = json.load(menu_structure) 
 
 with open('ubereats/customizations.json') as modifiers_structure:
-    modifier_category_data1 = json.load(modifiers_structure)
+    uber_eats_customizations = json.load(modifiers_structure)
 
 menu = {}
 item_modifier_category_mapping = {}
@@ -145,7 +145,7 @@ del menu["modifiers"]
 del menu["modifier_categories"]
 del menu["sub_modifiers"]
 del menu["sub_modifier_categories"]
-menu["menu"]["integration"] = self.integration.id
+menu["menu"]["integration"] = None
 
 
 with open("ubereats_formatted_menu.json","w") as file:
