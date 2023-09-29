@@ -21,12 +21,27 @@ for modifier_uuid, modifier_data in uber_eats_items["itemsMap"].items():
     menu["sub_modifiers"][modifier_uuid]["name"] = modifier_data["itemInfo"]["title"]["defaultValue"]
     menu["sub_modifiers"][modifier_uuid]["description"] = None
     menu["sub_modifiers"][modifier_uuid]["image_url"] = None
-    if modifier_data["paymentInfo"]["priceInfo"]["overrides"]:
-        menu["sub_modifiers"][modifier_uuid]["price"] = \
-        modifier_data["paymentInfo"]["priceInfo"]["overrides"][0]["overriddenValue"]["price"]["low"] / 100
-    else:
-        menu["sub_modifiers"][modifier_uuid]["price"] = \
+    menu["sub_modifiers"][modifier_uuid]["price"] = \
         modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"] / 100
+    menu["sub_modifiers"][modifier_uuid]["override_price1"] = None
+    menu["sub_modifiers"][modifier_uuid]["override_price2"] = None
+    menu["sub_modifiers"][modifier_uuid]["override_price3"] = None
+    menu["sub_modifiers"][modifier_uuid]["override_price4"] = None
+
+    
+    if modifier_data["paymentInfo"]["priceInfo"]["overrides"]:
+        override_price_length = len(modifier_data["paymentInfo"]["priceInfo"]["overrides"])
+        for i in range(override_price_length): 
+            menu["sub_modifiers"][modifier_uuid][f"override_price{i+1}"] = \
+            modifier_data["paymentInfo"]["priceInfo"]["overrides"][i]["overriddenValue"]["price"]["low"] / 100
+        
+        for i in range(override_price_length,5):
+            menu["sub_modifiers"][modifier_uuid][f"override_price{i+1}"] = None
+
+    else:
+        for i in range(5):
+            menu["sub_modifiers"][modifier_uuid][f"override_price{i+1}"] = None
+
 
     if "description" in modifier_data["itemInfo"]:
         if "defaultValue" in modifier_data["itemInfo"]["description"]:
@@ -59,12 +74,32 @@ for modifier_uuid, modifier_data in uber_eats_items["itemsMap"].items():
     menu["modifiers"][modifier_uuid]["name"] = modifier_data["itemInfo"]["title"]["defaultValue"]
     menu["modifiers"][modifier_uuid]["description"] = None
     menu["modifiers"][modifier_uuid]["image_url"] = None
-    if modifier_data["paymentInfo"]["priceInfo"]["overrides"]:
-        menu["modifiers"][modifier_uuid]["price"] = \
-        modifier_data["paymentInfo"]["priceInfo"]["overrides"][0]["overriddenValue"]["price"]["low"] / 100
-    else:
-        menu["modifiers"][modifier_uuid]["price"] = \
+    # if modifier_data["paymentInfo"]["priceInfo"]["overrides"]:
+    #     menu["modifiers"][modifier_uuid]["price"] = \
+    #     modifier_data["paymentInfo"]["priceInfo"]["overrides"][0]["overriddenValue"]["price"]["low"] / 100
+    # else:
+    #     menu["modifiers"][modifier_uuid]["price"] = \
+    #     modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"] / 100
+    menu["modifiers"][modifier_uuid]["price"] = \
         modifier_data["paymentInfo"]["priceInfo"]["defaultValue"]["price"]["low"] / 100
+    menu["modifiers"][modifier_uuid]["override_price1"] = None
+    menu["modifiers"][modifier_uuid]["override_price2"] = None
+    menu["modifiers"][modifier_uuid]["override_price3"] = None
+    menu["modifiers"][modifier_uuid]["override_price4"] = None
+
+    
+    if modifier_data["paymentInfo"]["priceInfo"]["overrides"]:
+        override_price_length = len(modifier_data["paymentInfo"]["priceInfo"]["overrides"])
+        for i in range(override_price_length): 
+            menu["modifiers"][modifier_uuid][f"override_price{i+1}"] = \
+            modifier_data["paymentInfo"]["priceInfo"]["overrides"][i]["overriddenValue"]["price"]["low"] / 100
+        
+        for i in range(override_price_length,5):
+            menu["modifiers"][modifier_uuid][f"override_price{i+1}"] = None
+            
+    else:
+        for i in range(5):
+            menu["modifiers"][modifier_uuid][f"override_price{i+1}"] = None
 
     if "description" in modifier_data["itemInfo"]:
         if "defaultValue" in modifier_data["itemInfo"]["description"]:

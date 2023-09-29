@@ -18,7 +18,7 @@ for content in grubhub_menu_media["contents"]:
         menu["images"][content["entity_uuid"]]["image_url"] = content[
             "secure_url"
         ]
-print(menu["images"])
+
 
 # modifiers
 menu["modifiers"] = {}
@@ -30,6 +30,10 @@ for modifier in grubhub_menu["modifiers"]:
     new_modifier["price"] = modifier["default_price"]
     new_modifier["sub_modifier_categories"] = []
     new_modifier["image_url"] = None
+    new_modifier["price_override1"] = None
+    new_modifier["price_override2"] = None
+    new_modifier["price_override3"] = None
+    new_modifier["price_override4"] = None
     menu["modifiers"][modifier["uuid"]] = new_modifier
 
 menu["modifier_lists"] = {}
@@ -144,7 +148,7 @@ del menu["modifiers"]
 del menu["modifier_categories"]
 del menu["modifier_lists"]
 del menu["size_prompts"]
-menu["menu"]["integration"] = self.integration.id
+menu["menu"]["integration"] = None
 with open("grubhub_formatted_menu.json","w") as file:
     json.dump(menu["menu"], file, indent=4)
 
