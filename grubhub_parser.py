@@ -30,7 +30,7 @@ for modifier in grubhub_menu["modifiers"]:
     new_modifier["price"] = modifier["default_price"]
     new_modifier["sub_modifier_categories"] = []
     new_modifier["image_url"] = None
-    new_modifier["price_info"] = []
+    new_modifier["modifier_price_info"] = []
     menu["modifiers"][modifier["uuid"]] = new_modifier
 
 menu["modifier_lists"] = {}
